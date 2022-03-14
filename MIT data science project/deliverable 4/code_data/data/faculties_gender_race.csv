@@ -1,0 +1,750 @@
+Id,Name,LastName,FirstName,Gender,RankName,Department,TotalArticleCount,TotalConfProcCount,TotalGrantCount,TotalPatentCount,TotalCourseCount,Race
+1485,"BALAKRISHNAN, HAMSA",BALAKRISHNAN,HAMSA,Male,Professor,Aeronautics and Astronautics,46,63,15,1,2,PCTAPI
+2030,"BARRETT, STEVEN R. H",BARRETT,STEVEN,Male,Associate,Aeronautics and Astronautics,87,7,11,1,2,PCTWHITE
+2190,"BELOBABA, PETER P",BELOBABA,PETER,Male,Other,Aeronautics and Astronautics,24,2,0,0,2,PCTWHITE
+2695,"BINZEL, RICHARD P",BINZEL,RICHARD,Male,Professor,Aeronautics and Astronautics,163,13,23,0,2,PCTWHITE
+4030,"CAHOY, KERRI",CAHOY,KERRI,Female,Associate,Aeronautics and Astronautics,47,72,45,8,3,PCTWHITE
+16360,"CARLONE, LUCA",CARLONE,LUCA,Male,Assistant,Aeronautics and Astronautics,29,52,7,2,2,PCTWHITE
+23990,"CORDERO, ZACHARY C",CORDERO,ZACHARY,Male,Assistant,Aeronautics and Astronautics,21,2,3,0,2,PCTHISPANIC
+3740,"CRAWLEY, EDWARD F",CRAWLEY,EDWARD,Male,Professor,Aeronautics and Astronautics,47,67,30,1,5,PCTWHITE
+3945,"DARMOFAL, DAVID L",DARMOFAL,DAVID,Male,Professor,Aeronautics and Astronautics,33,52,12,1,7,PCTWHITE
+3910,"DE WECK, OLIVIER L",DE WECK,OLIVIER,Male,Professor,Aeronautics and Astronautics,105,155,26,1,5,PCTWHITE
+4410,"DRELA, MARK",DRELA,MARK,Male,Professor,Aeronautics and Astronautics,18,34,4,3,7,PCTWHITE
+24160,"FAN, CHUCHU",FAN,CHUCHU,Female,Assistant,Aeronautics and Astronautics,6,19,1,2,2,PCTAPI
+4370,"GREITZER, EDWARD M",GREITZER,EDWARD,Male,Professor,Aeronautics and Astronautics,15,14,32,2,1,PCTWHITE
+16865,"GUERRA GARCIA, CARMEN",GUERRA GARCIA,CARMEN,Female,Assistant,Aeronautics and Astronautics,14,1,0,2,2,PCTWHITE
+4385,"HAIMES, ROBERT",HAIMES,ROBERT,Male,Other,Aeronautics and Astronautics,15,43,33,0,0,PCTWHITE
+2020,"HANSMAN, ROBERT J",HANSMAN,ROBERT,Male,Professor,Aeronautics and Astronautics,24,71,60,8,7,PCTWHITE
+5310,"HARRIS, WESLEY L",HARRIS,WESLEY,Male,Professor,Aeronautics and Astronautics,1,1,6,0,2,PCTWHITE
+5390,"HASTINGS, DANIEL E",HASTINGS,DANIEL,Male,Professor,Aeronautics and Astronautics,35,34,34,0,0,PCTWHITE
+2660,"HOFFMAN, JEFFREY A",HOFFMAN,JEFFREY,Male,Other,Aeronautics and Astronautics,52,67,32,0,4,PCTWHITE
+2910,"HOW, JONATHAN P",HOW,JONATHAN,Male,Professor,Aeronautics and Astronautics,160,268,58,6,2,PCTWHITE
+4785,"KARAMAN, SERTAC",KARAMAN,SERTAC,Female,Associate,Aeronautics and Astronautics,39,119,20,11,0,PCTWHITE
+5860,"LEVESON, NANCY G",LEVESON,NANCY,Female,Professor,Aeronautics and Astronautics,49,13,31,0,2,PCTWHITE
+9895,"LIEBECK, ROBERT H",LIEBECK,ROBERT,Male,Other,Aeronautics and Astronautics,1,1,0,6,0,PCTWHITE
+19275,"LINARES, RICHARD",LINARES,RICHARD,Male,Assistant,Aeronautics and Astronautics,30,31,9,1,2,PCTHISPANIC
+4375,"LOZANO, PAULO C",LOZANO,PAULO,Male,Professor,Aeronautics and Astronautics,43,37,28,21,2,PCTHISPANIC
+24205,"LOZANO-DURAN, ADRIAN",LOZANO-DURAN,ADRIAN,Male,Assistant,Aeronautics and Astronautics,28,22,1,0,1,PCTWHITE
+1195,"MARZOUK, YOUSSEF M",MARZOUK,YOUSSEF,Female,Associate,Aeronautics and Astronautics,72,28,25,1,2,PCTWHITE
+2680,"MASTERSON, REBECCA A",MASTERSON,REBECCA,Female,Other,Aeronautics and Astronautics,1,14,3,0,2,PCTWHITE
+2670,"MILLER, DAVID W",MILLER,DAVID,Male,Professor,Aeronautics and Astronautics,141,97,101,1,0,PCTWHITE
+6295,"MINDELL, DAVID A",MINDELL,DAVID,Male,Professor,Aeronautics and Astronautics,6,6,2,0,1,PCTWHITE
+5470,"MODIANO, EYTAN H",MODIANO,EYTAN,Male,Professor,Aeronautics and Astronautics,112,165,38,1,2,PCTWHITE
+4815,"NEWMAN, DAVA J",NEWMAN,DAVA,Female,Professor,Aeronautics and Astronautics,40,57,26,8,0,PCTWHITE
+5125,"NGUYEN, NGOC CUONG",NGUYEN,NGOC,Female,Other,Aeronautics and Astronautics,64,24,1,2,0,PCTAPI
+7490,"OMAN, CHARLES M",OMAN,CHARLES,Male,Other,Aeronautics and Astronautics,27,9,30,1,0,PCTWHITE
+4365,"PERAIRE, JAIME",PERAIRE,JAIME,Female,Professor,Aeronautics and Astronautics,84,45,14,2,2,PCTWHITE
+5610,"RADOVITZKY, RAUL A",RADOVITZKY,RAUL,Male,Professor,Aeronautics and Astronautics,48,6,5,5,2,PCTWHITE
+2320,"ROY, NICHOLAS",ROY,NICHOLAS,Male,Professor,Aeronautics and Astronautics,52,101,21,2,3,PCTWHITE
+4035,"SAENZ-OTERO, ALVAR",SAENZ-OTERO,ALVAR,Male,Other,Aeronautics and Astronautics,17,28,10,0,0,PCTWHITE
+7055,"SEAGER, SARA",SEAGER,SARA,Female,Professor,Aeronautics and Astronautics,265,52,51,1,2,PCTWHITE
+7055,"SEAGER, SARA",SEAGER,SARA,Female,Professor,Physics,265,52,51,1,2,PCTWHITE
+2880,"SHAH, JULIE A",SHAH,JULIE,Female,Associate,Aeronautics and Astronautics,33,52,28,3,4,PCTAPI
+4380,"SPAKOVSZKY, ZOLTAN S",SPAKOVSZKY,ZOLTAN,Male,Professor,Aeronautics and Astronautics,43,44,10,3,3,PCTWHITE
+23790,"SPETH, RAYMOND L",SPETH,RAYMOND,Female,Other,Aeronautics and Astronautics,26,13,0,2,0,PCTWHITE
+4820,"STIRLING, LEIA A",STIRLING,LEIA,Female,Assistant,Aeronautics and Astronautics,42,17,11,4,0,PCTWHITE
+1290,"TAN, CHOON S",TAN,CHOON,Female,Other,Aeronautics and Astronautics,53,37,29,0,0,PCTAPI
+2035,"WAITZ, IAN A",WAITZ,IAN,Female,Professor,Aeronautics and Astronautics,39,10,31,2,0,PCTWHITE
+5285,"WANG, QIQI",WANG,QIQI,Female,Associate,Aeronautics and Astronautics,109,52,10,1,2,PCTAPI
+5105,"WARDLE, BRIAN L",WARDLE,BRIAN,Male,Professor,Aeronautics and Astronautics,134,63,21,51,2,PCTWHITE
+2885,"WILLIAMS, BRIAN C",WILLIAMS,BRIAN,Male,Professor,Aeronautics and Astronautics,34,64,38,1,0,PCTWHITE
+3665,"WIN, MOE Z",WIN,MOE,Female,Professor,Aeronautics and Astronautics,170,218,20,6,2,PCTAPI
+17100,"WOOD, DANIELLE RENEE",WOOD,DANIELLE,Female,Assistant,Aeronautics and Astronautics,9,10,4,0,3,PCTWHITE
+17100,"WOOD, DANIELLE RENEE",WOOD,DANIELLE,Female,Assistant,Media Arts and Sciences,9,10,4,0,3,PCTWHITE
+5865,"YOUNG, LAURENCE RETMAN",YOUNG,LAURENCE,Female,Other,Aeronautics and Astronautics,37,9,23,5,0,PCTWHITE
+3770,"ALM, ERIC J",ALM,ERIC,Male,Professor,Biological Engineering,166,1,10,0,1,PCTWHITE
+2390,"BATHE, MARK",BATHE,MARK,Male,Associate,Biological Engineering,102,4,26,10,4,PCTWHITE
+2390,"BATHE, MARK",BATHE,MARK,Male,Associate,Mechanical Engineering,102,4,26,10,4,PCTWHITE
+2290,"BELCHER, ANGELA M",BELCHER,ANGELA,Female,Professor,Biological Engineering,120,3,17,29,0,PCTWHITE
+2290,"BELCHER, ANGELA M",BELCHER,ANGELA,Female,Professor,Materials Science and Engineering,120,3,17,29,0,PCTWHITE
+17500,"BIRNBAUM, MICHAEL E",BIRNBAUM,MICHAEL,Male,Assistant,Biological Engineering,30,0,5,5,2,PCTWHITE
+2795,"BLAINEY, PAUL C",BLAINEY,PAUL,Male,Associate,Biological Engineering,68,0,0,52,0,PCTWHITE
+2005,"BOYER, LAURIE ANN",BOYER,LAURIE,Female,Associate,Biological Engineering,43,0,5,0,2,PCTWHITE
+2005,"BOYER, LAURIE ANN",BOYER,LAURIE,Female,Associate,Biology,43,0,5,0,2,PCTWHITE
+16365,"BRYSON, BRYAN DAVID",BRYSON,BRYAN,Male,Assistant,Biological Engineering,25,0,5,0,2,PCTWHITE
+1945,"BURGE, CHRISTOPHER B",BURGE,CHRISTOPHER,Male,Professor,Biological Engineering,106,0,17,2,2,PCTWHITE
+1945,"BURGE, CHRISTOPHER B",BURGE,CHRISTOPHER,Male,Professor,Biology,106,0,17,2,2,PCTWHITE
+3530,"CHAKRABORTY, ARUP K",CHAKRABORTY,ARUP,Female,Professor,Biological Engineering,182,2,19,1,4,PCTAPI
+3530,"CHAKRABORTY, ARUP K",CHAKRABORTY,ARUP,Female,Professor,Chemical Engineering,182,2,19,1,4,PCTAPI
+3530,"CHAKRABORTY, ARUP K",CHAKRABORTY,ARUP,Female,Professor,Chemistry,182,2,19,1,4,PCTAPI
+3530,"CHAKRABORTY, ARUP K",CHAKRABORTY,ARUP,Female,Professor,Physics,182,2,19,1,4,PCTAPI
+14685,"COLLINS, JAMES J",COLLINS,JAMES,Male,Professor,Biological Engineering,274,3,21,27,2,PCTWHITE
+4105,"DEDON, PETER C",DEDON,PETER,Male,Professor,Biological Engineering,159,0,34,1,2,PCTWHITE
+2430,"ENGELWARD, BEVIN P",ENGELWARD,BEVIN,Female,Professor,Biological Engineering,76,4,19,7,2,PCTWHITE
+7960,"ERDMAN, SUSAN E",ERDMAN,SUSAN,Female,Other,Biological Engineering,63,0,14,1,0,PCTWHITE
+4070,"ESSIGMANN, JOHN M",ESSIGMANN,JOHN,Male,Professor,Biological Engineering,73,1,40,8,2,PCTWHITE
+4070,"ESSIGMANN, JOHN M",ESSIGMANN,JOHN,Male,Professor,Chemistry,73,1,40,8,2,PCTWHITE
+4060,"FOX, JAMES G",FOX,JAMES,Male,Professor,Biological Engineering,428,0,65,3,0,PCTWHITE
+2275,"FRAENKEL, ERNEST",FRAENKEL,ERNEST,Male,Professor,Biological Engineering,91,8,12,4,2,PCTWHITE
+1845,"GRIFFITH, LINDA G",GRIFFITH,LINDA,Female,Professor,Biological Engineering,170,11,28,37,4,PCTWHITE
+1845,"GRIFFITH, LINDA G",GRIFFITH,LINDA,Female,Professor,Mechanical Engineering,170,11,28,37,4,PCTWHITE
+1855,"GRODZINSKY, ALAN J",GRODZINSKY,ALAN,Male,Professor,Biological Engineering,203,3,25,5,0,PCTWHITE
+1855,"GRODZINSKY, ALAN J",GRODZINSKY,ALAN,Male,Professor,Electrical Engineering and Computer Sciences,203,3,25,5,0,PCTWHITE
+1855,"GRODZINSKY, ALAN J",GRODZINSKY,ALAN,Male,Professor,Mechanical Engineering,203,3,25,5,0,PCTWHITE
+3360,"HAN, JONGYOON",HAN,JONGYOON,Female,Professor,Biological Engineering,269,10,16,50,3,PCTAPI
+3360,"HAN, JONGYOON",HAN,JONGYOON,Female,Professor,Electrical Engineering and Computer Sciences,269,10,16,50,3,PCTAPI
+24010,"HANSEN, ANDERS SEJR",HANSEN,ANDERS,Male,Assistant,Biological Engineering,30,0,5,0,1,PCTWHITE
+3525,"IRVINE, DARRELL J",IRVINE,DARRELL,Female,Professor,Biological Engineering,221,7,41,48,2,PCTWHITE
+1865,"JASANOFF, ALAN PRADIP",JASANOFF,ALAN,Male,Professor,Biological Engineering,59,0,20,4,2,PCTWHITE
+1865,"JASANOFF, ALAN PRADIP",JASANOFF,ALAN,Male,Professor,Nuclear Science and Engineering,59,0,20,4,2,PCTWHITE
+5805,"KEATING, AMY E",KEATING,AMY,Female,Professor,Biological Engineering,72,0,12,4,2,PCTWHITE
+5805,"KEATING, AMY E",KEATING,AMY,Female,Professor,Biology,72,0,12,4,2,PCTWHITE
+14595,"KOEHLER, ANGELA NICOLE",KOEHLER,ANGELA,Female,Associate,Biological Engineering,50,0,4,15,2,PCTWHITE
+1830,"LANGER, ROBERT S",LANGER,ROBERT,Male,Professor,Biological Engineering,975,26,92,332,2,PCTWHITE
+1830,"LANGER, ROBERT S",LANGER,ROBERT,Male,Professor,Chemical Engineering,975,26,92,332,2,PCTWHITE
+1830,"LANGER, ROBERT S",LANGER,ROBERT,Male,Professor,Mechanical Engineering,975,26,92,332,2,PCTWHITE
+2245,"LAUFFENBURGER, DOUGLAS A",LAUFFENBURGER,DOUGLAS,Female,Professor,Biological Engineering,349,19,75,11,3,PCTWHITE
+2245,"LAUFFENBURGER, DOUGLAS A",LAUFFENBURGER,DOUGLAS,Female,Professor,Biology,349,19,75,11,3,PCTWHITE
+2245,"LAUFFENBURGER, DOUGLAS A",LAUFFENBURGER,DOUGLAS,Female,Professor,Chemical Engineering,349,19,75,11,3,PCTWHITE
+1970,"LODISH, HARVEY F",LODISH,HARVEY,Male,Professor,Biological Engineering,186,1,0,6,2,PCTWHITE
+1970,"LODISH, HARVEY F",LODISH,HARVEY,Male,Professor,Biology,186,1,0,6,2,PCTWHITE
+5590,"LU, TIMOTHY K",LU,TIMOTHY,Male,Associate,Biological Engineering,131,9,31,44,1,PCTAPI
+5590,"LU, TIMOTHY K",LU,TIMOTHY,Male,Associate,Electrical Engineering and Computer Sciences,131,9,31,44,1,PCTAPI
+2220,"MANALIS, SCOTT R",MANALIS,SCOTT,Male,Professor,Biological Engineering,81,12,24,19,1,PCTWHITE
+2220,"MANALIS, SCOTT R",MANALIS,SCOTT,Male,Professor,Mechanical Engineering,81,12,24,19,1,PCTWHITE
+4930,"NILES, JACQUIN",NILES,JACQUIN,Female,Professor,Biological Engineering,39,1,6,3,2,PCTWHITE
+3835,"RIBBECK, KATHARINA",RIBBECK,KATHARINA,Female,Associate,Biological Engineering,57,1,7,8,3,PCTWHITE
+3350,"SAMSON, LEONA D",SAMSON,LEONA,Female,Other,Biological Engineering,110,0,24,1,0,PCTWHITE
+5945,"SASISEKHARAN, RAM",SASISEKHARAN,RAM,Female,Professor,Biological Engineering,114,0,29,71,2,PCTWHITE
+1835,"SO, PETER T. C",SO,PETER,Male,Professor,Biological Engineering,194,82,12,14,3,PCTAPI
+1835,"SO, PETER T. C",SO,PETER,Male,Professor,Mechanical Engineering,194,82,12,14,3,PCTAPI
+4425,"THILLY, WILLIAM G",THILLY,WILLIAM,Male,Professor,Biological Engineering,34,0,18,10,2,PCTWHITE
+1905,"TIDOR, BRUCE",TIDOR,BRUCE,Male,Professor,Biological Engineering,79,4,28,3,2,PCTWHITE
+1905,"TIDOR, BRUCE",TIDOR,BRUCE,Male,Professor,Electrical Engineering and Computer Sciences,79,4,28,3,2,PCTWHITE
+1605,"VAN VLIET, KRYSTYN J",VAN VLIET,KRYSTYN,Female,Professor,Biological Engineering,176,6,10,8,0,PCTWHITE
+1605,"VAN VLIET, KRYSTYN J",VAN VLIET,KRYSTYN,Female,Professor,Materials Science and Engineering,176,6,10,8,0,PCTWHITE
+2270,"VOIGT, CHRISTOPHER A",VOIGT,CHRISTOPHER,Male,Professor,Biological Engineering,232,1,36,25,2,PCTWHITE
+2265,"WEISS, RON",WEISS,RON,Male,Professor,Biological Engineering,130,23,39,35,2,PCTWHITE
+5055,"WHITE, FOREST M",WHITE,FOREST,Male,Professor,Biological Engineering,117,2,22,7,2,PCTWHITE
+1895,"WITTRUP, KARL DANE",WITTRUP,KARL,Male,Professor,Biological Engineering,154,2,29,19,3,PCTWHITE
+1895,"WITTRUP, KARL DANE",WITTRUP,KARL,Male,Professor,Chemical Engineering,154,2,29,19,3,PCTWHITE
+5060,"YAFFE, MICHAEL B",YAFFE,MICHAEL,Male,Professor,Biological Engineering,249,5,25,7,2,PCTWHITE
+5060,"YAFFE, MICHAEL B",YAFFE,MICHAEL,Male,Professor,Biology,249,5,25,7,2,PCTWHITE
+3185,"AMON, ANGELIKA B",AMON,ANGELIKA,Female,Professor,Biology,127,3,12,0,0,PCTWHITE
+1940,"BAKER, TANIA",BAKER,TANIA,Female,Professor,Biology,125,1,8,0,0,PCTWHITE
+2015,"BARTEL, DAVID",BARTEL,DAVID,Male,Professor,Biology,130,1,0,11,2,PCTWHITE
+1935,"BELL, STEPHEN P",BELL,STEPHEN,Male,Professor,Biology,75,0,14,0,1,PCTWHITE
+15260,"CALO VELAZQUEZ, ELIEZER",CALO VELAZQUEZ,ELIEZER,Male,Assistant,Biology,14,0,0,0,2,PCTWHITE
+8370,"CHEESEMAN, IAIN M",CHEESEMAN,IAIN,Female,Professor,Biology,83,0,0,0,2,PCTWHITE
+5065,"CHEN, JIANZHU",CHEN,JIANZHU,Female,Professor,Biology,227,2,21,0,3,PCTAPI
+3830,"CHISHOLM, SALLIE W",CHISHOLM,SALLIE,Female,Professor,Biology,97,0,20,1,0,PCTWHITE
+3830,"CHISHOLM, SALLIE W",CHISHOLM,SALLIE,Female,Professor,Civil and Environmental Engineering,97,0,20,1,0,PCTWHITE
+15510,"DAVIS, JOSEPH HARRY",DAVIS,JOSEPH,Male,Assistant,Biology,19,0,2,0,1,PCTWHITE
+4920,"DRENNAN, CATHERINE L",DRENNAN,CATHERINE,Female,Professor,Biology,157,3,8,0,1,PCTWHITE
+4920,"DRENNAN, CATHERINE L",DRENNAN,CATHERINE,Female,Professor,Chemistry,157,3,8,0,1,PCTWHITE
+1995,"FINK, GERALD R",FINK,GERALD,Female,Other,Biology,82,1,0,4,0,PCTWHITE
+9605,"GEHRING, MARY",GEHRING,MARY,Female,Associate,Biology,36,0,0,0,0,PCTWHITE
+2780,"GERTLER, FRANK",GERTLER,FRANK,Male,Professor,Biology,134,4,8,11,0,PCTWHITE
+7780,"GROSSMAN, ALAN DAVIS",GROSSMAN,ALAN,Male,Professor,Biology,68,0,18,0,1,PCTWHITE
+5445,"GUARENTE, LEONARD PERSHING",GUARENTE,LEONARD,Male,Professor,Biology,148,2,16,6,1,PCTWHITE
+3085,"GUPTA, PIYUSH",GUPTA,PIYUSH,Female,Associate,Biology,72,1,0,0,0,PCTAPI
+2010,"HEMANN, MICHAEL",HEMANN,MICHAEL,Male,Associate,Biology,130,3,5,2,2,PCTWHITE
+1960,"HORVITZ, HOWARD ROBERT",HORVITZ,HOWARD,Female,Professor,Biology,92,0,9,12,1,PCTWHITE
+5305,"HOUSMAN, DAVID E",HOUSMAN,DAVID,Male,Professor,Biology,85,0,23,12,1,PCTWHITE
+2410,"HYNES, RICHARD O",HYNES,RICHARD,Male,Professor,Biology,144,2,28,4,0,PCTWHITE
+5940,"IMPERIALI, BARBARA",IMPERIALI,BARBARA,Female,Professor,Biology,135,0,37,11,2,PCTWHITE
+5940,"IMPERIALI, BARBARA",IMPERIALI,BARBARA,Female,Professor,Chemistry,135,0,37,11,2,PCTWHITE
+2425,"JACKS, TYLER E",JACKS,TYLER,Male,Professor,Biology,242,11,53,9,1,PCTWHITE
+1965,"JAENISCH, RUDOLF",JAENISCH,RUDOLF,Male,Professor,Biology,307,2,0,14,1,PCTWHITE
+18900,"JAIN, ANKUR",JAIN,ANKUR,Male,Assistant,Biology,28,1,0,0,3,PCTAPI
+5890,"KAISER, CHRIS",KAISER,CHRIS,Female,Professor,Biology,25,0,8,0,2,PCTWHITE
+2500,"KIM, DENNIS H",KIM,DENNIS,Male,Professor,Biology,260,0,5,0,0,PCTAPI
+3295,"KING, JONATHAN ALAN",KING,JONATHAN,Male,Other,Biology,155,3,18,0,0,PCTWHITE
+5465,"KRIEGER, MONTY",KRIEGER,MONTY,Female,Professor,Biology,57,1,10,6,2,PCTWHITE
+19445,"LAMASON, REBECCA",LAMASON,REBECCA,Female,Assistant,Biology,11,0,1,0,1,PCTWHITE
+2420,"LANDER, ERIC S",LANDER,ERIC,Male,Professor,Biology,388,4,14,28,2,PCTWHITE
+1925,"LAUB, MICHAEL T",LAUB,MICHAEL,Male,Professor,Biology,87,0,7,0,2,PCTWHITE
+5415,"LEES, JACQUELINE",LEES,JACQUELINE,Female,Professor,Biology,67,1,6,0,1,PCTWHITE
+23855,"LEHMANN, RUTH E",LEHMANN,RUTH,Female,Professor,Biology,91,0,0,0,0,PCTWHITE
+15090,"LI, GENE-WEI",LI,GENE-WEI,Female,Assistant,Biology,37,1,3,0,2,PCTAPI
+22650,"LI, PULIN",LI,PULIN,Female,Assistant,Biology,36,1,0,0,1,PCTAPI
+6465,"LITTLETON, J TROY",LITTLETON,J,Female,Professor,Biology,77,0,19,0,2,PCTWHITE
+6465,"LITTLETON, J TROY",LITTLETON,J,Female,Professor,Brain and Cognitive Sciences,77,0,19,0,2,PCTWHITE
+19345,"LOURIDO, SEBASTIAN",LOURIDO,SEBASTIAN,Male,Assistant,Biology,35,0,0,0,2,PCTHISPANIC
+9920,"MARTIN, ADAM C",MARTIN,ADAM,Male,Associate,Biology,52,0,4,0,3,PCTWHITE
+3335,"NEDIVI, ELLY",NEDIVI,ELLY,Female,Professor,Biology,37,4,13,1,2,PCTWHITE
+3335,"NEDIVI, ELLY",NEDIVI,ELLY,Female,Professor,Brain and Cognitive Sciences,37,4,13,1,2,PCTWHITE
+1990,"ORR-WEAVER, TERRY",ORR-WEAVER,TERRY,Male,Professor,Biology,64,0,0,0,0,PCTWHITE
+5455,"PAGE, DAVID C",PAGE,DAVID,Male,Professor,Biology,111,1,0,3,0,PCTWHITE
+4065,"RAJBHANDARY, UTTAM L",RAJBHANDARY,UTTAM,Female,Professor,Biology,35,0,11,1,1,PCTWHITE
+5450,"REDDIEN, PETER",REDDIEN,PETER,Male,Professor,Biology,57,0,0,0,2,PCTWHITE
+5575,"REGEV, AVIV",REGEV,AVIV,Female,Professor,Biology,379,26,5,59,0,PCTWHITE
+3175,"SABATINI, DAVID",SABATINI,DAVID,Male,Professor,Biology,237,10,2,6,2,PCTWHITE
+1920,"SAUER, ROBERT T",SAUER,ROBERT,Male,Professor,Biology,147,1,13,0,1,PCTWHITE
+7715,"SCHWARTZ, THOMAS",SCHWARTZ,THOMAS,Male,Professor,Biology,61,0,9,1,1,PCTWHITE
+1975,"SHARP, PHILLIP A",SHARP,PHILLIP,Male,Professor,Biology,160,7,21,22,0,PCTWHITE
+2630,"SINSKEY, ANTHONY J",SINSKEY,ANTHONY,Male,Professor,Biology,107,4,9,35,2,PCTWHITE
+1955,"SIVE, HAZEL L",SIVE,HAZEL,Female,Professor,Biology,86,0,1,0,0,PCTWHITE
+7610,"SOLOMON, FRANK",SOLOMON,FRANK,Male,Professor,Biology,2,0,6,0,2,PCTWHITE
+17495,"SPRANGER-ZIMMERMANN, STEFANI",SPRANGER-ZIMMERMANN,STEFANI,Female,Assistant,Biology,82,2,1,0,2,PCTWHITE
+7620,"STEINER, LISA A",STEINER,LISA,Female,Professor,Biology,18,1,3,0,0,PCTWHITE
+7675,"TONEGAWA, SUSUMU",TONEGAWA,SUSUMU,Male,Professor,Biology,108,2,23,8,1,PCTWHITE
+7675,"TONEGAWA, SUSUMU",TONEGAWA,SUSUMU,Male,Professor,Brain and Cognitive Sciences,108,2,23,8,1,PCTWHITE
+5485,"VANDER HEIDEN, MATTHEW G",VANDER HEIDEN,MATTHEW,Male,Associate,Biology,215,9,11,2,2,PCTWHITE
+23610,"VOS, SEYCHELLE",VOS,SEYCHELLE,Female,Assistant,Biology,18,0,0,0,1,PCTWHITE
+23655,"WALKER, BRUCE",WALKER,BRUCE,Male,Other,Biology,544,0,0,1,1,PCTWHITE
+4925,"WALKER, GRAHAM C",WALKER,GRAHAM,Female,Professor,Biology,234,5,20,1,2,PCTWHITE
+4075,"WEINBERG, ROBERT A",WEINBERG,ROBERT,Male,Professor,Biology,179,13,0,15,1,PCTWHITE
+23965,"WEISSMAN, JONATHAN",WEISSMAN,JONATHAN,Male,Professor,Biology,244,4,0,0,0,PCTWHITE
+14950,"WENG, JING-KE",WENG,JING-KE,Male,Associate,Biology,73,1,0,0,3,PCTAPI
+2840,"WILSON, MATTHEW A",WILSON,MATTHEW,Male,Professor,Biology,88,9,16,1,0,PCTWHITE
+2840,"WILSON, MATTHEW A",WILSON,MATTHEW,Male,Professor,Brain and Cognitive Sciences,88,9,16,1,0,PCTWHITE
+23890,"YAMASHITA, YUKIKO",YAMASHITA,YUKIKO,Female,Professor,Biology,114,0,0,0,0,PCTAPI
+14590,"YILMAZ, OMER H",YILMAZ,OMER,Female,Associate,Biology,90,1,14,4,2,PCTWHITE
+1980,"YOUNG, RICHARD A",YOUNG,RICHARD,Male,Professor,Biology,261,8,0,7,2,PCTWHITE
+1065,"ADELSON, EDWARD H",ADELSON,EDWARD,Male,Professor,Brain and Cognitive Sciences,60,46,15,11,1,PCTWHITE
+1795,"ANIKEEVA, POLINA OLEGOVNA",ANIKEEVA,POLINA,Female,Associate,Brain and Cognitive Sciences,77,8,14,13,2,PCTWHITE
+1795,"ANIKEEVA, POLINA OLEGOVNA",ANIKEEVA,POLINA,Female,Associate,Materials Science and Engineering,77,8,14,13,2,PCTWHITE
+2785,"BEAR, MARK",BEAR,MARK,Male,Professor,Brain and Cognitive Sciences,105,0,20,4,1,PCTWHITE
+2870,"BOYDEN, EDWARD",BOYDEN,EDWARD,Male,Professor,Brain and Cognitive Sciences,200,11,54,75,2,PCTWHITE
+2870,"BOYDEN, EDWARD",BOYDEN,EDWARD,Male,Professor,Media Arts and Sciences,200,11,54,75,2,PCTWHITE
+2845,"BROWN, EMERY NEAL",BROWN,EMERY,Female,Professor,Brain and Cognitive Sciences,246,92,5,11,2,PCTWHITE
+10400,"CHOI, BOHYUN GLORIA",CHOI,BOHYUN,Female,Assistant,Brain and Cognitive Sciences,13,0,3,2,0,PCTAPI
+2860,"CHUNG, KWANGHUN",CHUNG,KWANGHUN,Female,Associate,Brain and Cognitive Sciences,43,12,5,8,4,PCTAPI
+2860,"CHUNG, KWANGHUN",CHUNG,KWANGHUN,Female,Associate,Chemical Engineering,43,12,5,8,4,PCTAPI
+2815,"DESIMONE, ROBERT",DESIMONE,ROBERT,Male,Professor,Brain and Cognitive Sciences,79,3,10,0,1,PCTWHITE
+2775,"DICARLO, JAMES",DICARLO,JAMES,Male,Professor,Brain and Cognitive Sciences,65,11,14,1,0,PCTWHITE
+23775,"FEDORENKO, EVELINA G",FEDORENKO,EVELINA,Female,Assistant,Brain and Cognitive Sciences,88,2,5,0,1,PCTWHITE
+7550,"FEE, MICHALE SEAN",FEE,MICHALE,Male,Professor,Brain and Cognitive Sciences,45,1,6,1,1,PCTWHITE
+2825,"FENG, GUOPING",FENG,GUOPING,Female,Professor,Brain and Cognitive Sciences,155,2,12,2,1,PCTAPI
+16130,"FIETE, ILA",FIETE,ILA,Female,Associate,Brain and Cognitive Sciences,32,1,2,0,2,PCTWHITE
+15645,"FLAVELL, STEVEN WILLEM",FLAVELL,STEVEN,Male,Assistant,Brain and Cognitive Sciences,20,0,3,0,1,PCTWHITE
+5895,"GABRIELI, JOHN D. E",GABRIELI,JOHN,Male,Professor,Brain and Cognitive Sciences,255,1,36,0,1,PCTWHITE
+23875,"GHOSH, SATRAJIT S",GHOSH,SATRAJIT,Female,Other,Brain and Cognitive Sciences,90,8,10,2,0,PCTAPI
+4980,"GIBSON, EDWARD A",GIBSON,EDWARD,Male,Professor,Brain and Cognitive Sciences,101,7,8,0,2,PCTWHITE
+2770,"GRAYBIEL, ANN M",GRAYBIEL,ANN,Female,Professor,Brain and Cognitive Sciences,120,3,36,1,0,PCTWHITE
+19205,"HALASSA, MICHAEL M",HALASSA,MICHAEL,Male,Assistant,Brain and Cognitive Sciences,50,1,2,0,1,PCTWHITE
+15095,"HARNETT, MARK THOMAS",HARNETT,MARK,Male,Assistant,Brain and Cognitive Sciences,21,0,3,0,1,PCTWHITE
+9925,"HEIMAN, MYRIAM",HEIMAN,MYRIAM,Female,Associate,Brain and Cognitive Sciences,33,0,0,1,2,PCTWHITE
+14755,"HOCKFIELD, SUSAN",HOCKFIELD,SUSAN,Female,Professor,Brain and Cognitive Sciences,10,0,0,0,2,PCTWHITE
+5780,"HOGAN, NEVILLE",HOGAN,NEVILLE,Male,Professor,Brain and Cognitive Sciences,86,73,15,8,2,PCTWHITE
+5780,"HOGAN, NEVILLE",HOGAN,NEVILLE,Male,Professor,Mechanical Engineering,86,73,15,8,2,PCTWHITE
+10405,"JAZAYERI, MEHRDAD",JAZAYERI,MEHRDAD,Female,Associate,Brain and Cognitive Sciences,45,0,5,0,1,PCTWHITE
+5915,"KANWISHER, NANCY",KANWISHER,NANCY,Female,Professor,Brain and Cognitive Sciences,224,9,23,0,1,PCTWHITE
+16145,"LEVY, ROGER P",LEVY,ROGER,Male,Associate,Brain and Cognitive Sciences,43,28,4,1,2,PCTWHITE
+7300,"MANSINGHKA, VIKASH K",MANSINGHKA,VIKASH,Male,Other,Brain and Cognitive Sciences,8,6,4,2,0,PCTWHITE
+1030,"MCDERMOTT, JOSHUA HARTMAN",MCDERMOTT,JOSHUA,Male,Associate,Brain and Cognitive Sciences,81,12,5,0,2,PCTWHITE
+7680,"MILLER, EARL K",MILLER,EARL,Female,Professor,Brain and Cognitive Sciences,101,3,19,3,0,PCTWHITE
+8470,"PANTAZIS, DIMITRIOS",PANTAZIS,DIMITRIOS,Male,Other,Brain and Cognitive Sciences,75,25,2,0,0,PCTWHITE
+2375,"POGGIO, TOMASO A",POGGIO,TOMASO,Male,Professor,Brain and Cognitive Sciences,77,24,34,9,2,PCTWHITE
+7885,"PRELEC, DRAZEN",PRELEC,DRAZEN,Male,Professor,Brain and Cognitive Sciences,36,0,6,0,3,PCTWHITE
+23620,"RAKHLIN, ALEXANDER",RAKHLIN,ALEXANDER,Male,Associate,Brain and Cognitive Sciences,16,14,4,0,2,PCTWHITE
+19025,"RAND, DAVID GERTLER",RAND,DAVID,Male,Associate,Brain and Cognitive Sciences,223,8,3,0,5,PCTWHITE
+1035,"ROSENHOLTZ, RUTH ELLEN",ROSENHOLTZ,RUTH,Female,Other,Brain and Cognitive Sciences,83,9,5,5,0,PCTWHITE
+4975,"SAXE, REBECCA R",SAXE,REBECCA,Female,Professor,Brain and Cognitive Sciences,145,1,6,0,0,PCTWHITE
+7290,"SCHULZ, LAURA E",SCHULZ,LAURA,Female,Professor,Brain and Cognitive Sciences,61,0,3,0,2,PCTWHITE
+7690,"SHENG, MORGAN HWA-TZE",SHENG,MORGAN,Female,Professor,Brain and Cognitive Sciences,133,0,2,0,0,PCTAPI
+7890,"SINHA, PAWAN",SINHA,PAWAN,Male,Professor,Brain and Cognitive Sciences,135,8,5,4,3,PCTAPI
+6965,"SLOTINE, JEAN-JACQUES E",SLOTINE,JEAN-JACQUES,Female,Professor,Brain and Cognitive Sciences,94,63,2,7,2,PCTWHITE
+6965,"SLOTINE, JEAN-JACQUES E",SLOTINE,JEAN-JACQUES,Female,Professor,Mechanical Engineering,94,63,2,7,2,PCTWHITE
+2800,"SUR, MRIGANKA",SUR,MRIGANKA,Female,Professor,Brain and Cognitive Sciences,125,12,38,5,1,PCTAPI
+4970,"TENENBAUM, JOSHUA B",TENENBAUM,JOSHUA,Male,Professor,Brain and Cognitive Sciences,133,41,21,0,2,PCTWHITE
+3290,"TSAI, LI-HUEI",TSAI,LI-HUEI,Female,Professor,Brain and Cognitive Sciences,202,1,39,19,1,PCTAPI
+2805,"TYE, KAY M",TYE,KAY,Female,Associate,Brain and Cognitive Sciences,66,1,7,0,0,PCTWHITE
+8760,"ULLMAN, SHIMON",ULLMAN,SHIMON,Male,Other,Brain and Cognitive Sciences,45,26,1,0,1,PCTWHITE
+23920,"WANG, FAN",WANG,FAN,Female,Professor,Brain and Cognitive Sciences,228,1,5,0,0,PCTAPI
+8755,"WICKERSHAM, IAN R",WICKERSHAM,IAN,Female,Other,Brain and Cognitive Sciences,37,0,8,0,0,PCTWHITE
+8740,"XU, WEIFENG",XU,WEIFENG,Female,Assistant,Brain and Cognitive Sciences,43,0,2,0,0,PCTAPI
+2405,"ZHANG, FENG",ZHANG,FENG,Male,Professor,Brain and Cognitive Sciences,609,21,0,153,1,PCTAPI
+2435,"ANDERSON, DANIEL GRIFFITH",ANDERSON,DANIEL,Male,Associate,Chemical Engineering,527,3,10,105,4,PCTWHITE
+1390,"ARMSTRONG, ROBERT C",ARMSTRONG,ROBERT,Male,Professor,Chemical Engineering,27,0,8,0,0,PCTWHITE
+5475,"BARTON, PAUL I",BARTON,PAUL,Male,Professor,Chemical Engineering,166,23,9,1,4,PCTWHITE
+5425,"BAZANT, MARTIN Z",BAZANT,MARTIN,Female,Professor,Chemical Engineering,229,7,8,9,3,PCTWHITE
+2720,"BLANKSCHTEIN, EDMUNDO D",BLANKSCHTEIN,EDMUNDO,Female,Professor,Chemical Engineering,108,4,2,13,2,PCTWHITE
+2335,"BRAATZ, RICHARD D",BRAATZ,RICHARD,Male,Professor,Chemical Engineering,293,0,0,0,0,PCTWHITE
+7585,"BRUSHETT, FIKILE R",BRUSHETT,FIKILE,Female,Associate,Chemical Engineering,98,3,11,9,4,PCTWHITE
+3225,"COHEN, ROBERT E",COHEN,ROBERT,Male,Other,Chemical Engineering,171,3,0,33,0,PCTWHITE
+23705,"COLEY, CONNOR WILSON",COLEY,CONNOR,Male,Assistant,Chemical Engineering,40,1,0,2,3,PCTWHITE
+6655,"COLTON, CLARK K",COLTON,CLARK,Male,Professor,Chemical Engineering,40,3,15,9,2,PCTWHITE
+2250,"DOYLE, PATRICK S",DOYLE,PATRICK,Male,Professor,Chemical Engineering,243,12,13,26,10,PCTWHITE
+23590,"FURST, ARIEL L",FURST,ARIEL,Female,Assistant,Chemical Engineering,27,0,1,2,6,PCTWHITE
+23605,"GALLOWAY, KATE E",GALLOWAY,KATE,Female,Assistant,Chemical Engineering,6,0,0,1,5,PCTWHITE
+3030,"GLEASON, KAREN K",GLEASON,KAREN,Female,Professor,Chemical Engineering,289,7,19,56,2,PCTWHITE
+2330,"GREEN, WILLIAM H",GREEN,WILLIAM,Male,Professor,Chemical Engineering,209,20,22,3,4,PCTWHITE
+1875,"HAMMOND, PAULA T",HAMMOND,PAULA,Female,Professor,Chemical Engineering,373,5,28,30,2,PCTWHITE
+2415,"HATTON, TREVOR ALAN",HATTON,TREVOR,Male,Professor,Chemical Engineering,279,0,18,42,13,PCTWHITE
+7650,"HERZOG, HOWARD J",HERZOG,HOWARD,Female,Other,Chemical Engineering,54,4,14,2,0,PCTWHITE
+1695,"JENSEN, KLAVS F",JENSEN,KLAVS,Female,Professor,Chemical Engineering,293,5,30,59,4,PCTWHITE
+1695,"JENSEN, KLAVS F",JENSEN,KLAVS,Female,Professor,Materials Science and Engineering,293,5,30,59,4,PCTWHITE
+1915,"KULIK, HEATHER JANINE",KULIK,HEATHER,Female,Associate,Chemical Engineering,85,1,8,0,4,PCTWHITE
+5585,"LOVE, JOHN C",LOVE,JOHN,Male,Professor,Chemical Engineering,184,2,32,46,5,PCTWHITE
+15305,"MANTHIRAM, KARTHISH",MANTHIRAM,KARTHISH,Female,Assistant,Chemical Engineering,33,1,5,3,4,PCTWHITE
+2615,"OLSEN, BRADLEY D",OLSEN,BRADLEY,Male,Associate,Chemical Engineering,144,0,17,8,4,PCTWHITE
+2260,"PRATHER, KRISTALA L",PRATHER,KRISTALA,Female,Professor,Chemical Engineering,113,0,10,11,3,PCTWHITE
+8000,"ROMAN, YURIY",ROMAN,YURIY,Female,Associate,Chemical Engineering,117,0,12,15,4,PCTHISPANIC
+1360,"RUTLEDGE, GREGORY C",RUTLEDGE,GREGORY,Male,Professor,Chemical Engineering,166,2,9,10,5,PCTWHITE
+9610,"SIKES JOHNSON, HADLEY",SIKES JOHNSON,HADLEY,Male,Associate,Chemical Engineering,67,0,4,14,2,PCTWHITE
+15310,"SMITH, ZACHARY P",SMITH,ZACHARY,Male,Assistant,Chemical Engineering,55,0,2,8,4,PCTWHITE
+5490,"STEPHANOPOULOS, GEORGE",STEPHANOPOULOS,GEORGE,Male,Other,Chemical Engineering,33,2,7,0,0,PCTWHITE
+5480,"STEPHANOPOULOS, GREGORY",STEPHANOPOULOS,GREGORY,Male,Professor,Chemical Engineering,267,7,30,40,4,PCTWHITE
+1380,"STRANO, MICHAEL S",STRANO,MICHAEL,Male,Professor,Chemical Engineering,366,6,27,25,5,PCTWHITE
+10410,"SWAN, JAMES W",SWAN,JAMES,Male,Associate,Chemical Engineering,67,1,5,0,4,PCTWHITE
+1850,"TISDALE, WILLIAM",TISDALE,WILLIAM,Male,Associate,Chemical Engineering,72,4,4,8,4,PCTWHITE
+1885,"TROUT, BERNHARDT L",TROUT,BERNHARDT,Female,Professor,Chemical Engineering,173,0,6,18,1,PCTWHITE
+7195,"VIRK, PREETINDER S",VIRK,PREETINDER,Female,Other,Chemical Engineering,6,0,0,0,0,PCTAPI
+6135,"WANG, DANIEL I. C",WANG,DANIEL,Male,Professor,Chemical Engineering,82,1,5,12,0,PCTAPI
+1700,"BAWENDI, MOUNGI G",BAWENDI,MOUNGI,Female,Professor,Chemistry,305,37,23,139,2,PCTWHITE
+3300,"BUCHWALD, STEPHEN LEFFLER",BUCHWALD,STEPHEN,Male,Professor,Chemistry,377,1,20,36,2,PCTWHITE
+1890,"CAO, JIANSHU",CAO,JIANSHU,Female,Professor,Chemistry,168,5,6,0,2,PCTAPI
+7840,"CEYER, SYLVIA TERESSE",CEYER,SYLVIA,Female,Professor,Chemistry,7,0,10,1,1,PCTWHITE
+4590,"CUMMINS, CHRISTOPHER C",CUMMINS,CHRISTOPHER,Male,Professor,Chemistry,166,3,18,6,3,PCTWHITE
+3970,"DANHEISER, RICK LANE",DANHEISER,RICK,Female,Professor,Chemistry,38,0,8,0,0,PCTWHITE
+1910,"DASARI, RAMACHANDRA RAO",DASARI,RAMACHANDRA,Female,Other,Chemistry,146,44,5,19,0,PCTAPI
+2050,"DINCA, MIRCEA",DINCA,MIRCEA,Male,Associate,Chemistry,151,1,6,13,2,PCTWHITE
+4530,"FIELD, ROBERT W",FIELD,ROBERT,Male,Professor,Chemistry,169,51,24,0,0,PCTWHITE
+7405,"GRIFFIN, ROBERT GUY",GRIFFIN,ROBERT,Male,Professor,Chemistry,234,15,58,4,3,PCTWHITE
+8020,"HONG, MEI",HONG,MEI,Female,Professor,Chemistry,182,0,7,0,1,PCTAPI
+2340,"JAMISON, TIMOTHY F",JAMISON,TIMOTHY,Male,Professor,Chemistry,186,0,7,9,1,PCTWHITE
+6040,"JOHNSON, JEREMIAH A",JOHNSON,JEREMIAH,Female,Associate,Chemistry,126,2,11,33,3,PCTWHITE
+16680,"KIESSLING, LAURA L",KIESSLING,LAURA,Female,Professor,Chemistry,254,1,8,0,2,PCTWHITE
+5950,"KLIBANOV, ALEXANDER M",KLIBANOV,ALEXANDER,Male,Other,Chemistry,76,1,7,3,0,PCTWHITE
+7630,"KOOI, STEVEN E",KOOI,STEVEN,Male,Other,Chemistry,68,12,1,2,0,PCTWHITE
+3285,"LIPPARD, STEPHEN J",LIPPARD,STEPHEN,Male,Other,Chemistry,343,0,36,22,0,PCTWHITE
+24165,"MCGUIRE, BRETT A",MCGUIRE,BRETT,Female,Assistant,Chemistry,67,35,0,0,1,PCTWHITE
+8275,"MOVASSAGHI, MOHAMMAD",MOVASSAGHI,MOHAMMAD,Female,Professor,Chemistry,86,0,11,10,3,PCTWHITE
+1820,"NELSON, KEITH ADAM",NELSON,KEITH,Male,Professor,Chemistry,260,96,48,22,4,PCTWHITE
+7955,"NOLAN, ELIZABETH MARIE",NOLAN,ELIZABETH,Female,Professor,Chemistry,94,0,10,3,1,PCTWHITE
+3280,"PENTELUTE, BRADLEY L",PENTELUTE,BRADLEY,Male,Associate,Chemistry,125,1,9,22,3,PCTWHITE
+18840,"RADOSEVICH, ALEXANDER T",RADOSEVICH,ALEXANDER,Male,Associate,Chemistry,43,0,5,0,2,PCTWHITE
+18445,"RAINES, RONALD T",RAINES,RONALD,Female,Professor,Chemistry,291,4,7,63,6,PCTWHITE
+15100,"SCHLAU-COHEN, GABRIELA S",SCHLAU-COHEN,GABRIELA,Female,Assistant,Chemistry,46,14,6,0,2,PCTWHITE
+3845,"SCHROCK, RICHARD ROYCE",SCHROCK,RICHARD,Male,Other,Chemistry,222,2,26,40,0,PCTWHITE
+14605,"SHALEK, ALEXANDER K",SHALEK,ALEXANDER,Male,Associate,Chemistry,135,9,20,24,3,PCTWHITE
+10040,"SHOULDERS, MATTHEW D",SHOULDERS,MATTHEW,Male,Associate,Chemistry,41,1,7,3,1,PCTWHITE
+6905,"SOLOMON, SUSAN",SOLOMON,SUSAN,Female,Professor,Chemistry,196,0,5,0,2,PCTWHITE
+3785,"STUBBE, JOANNE",STUBBE,JOANNE,Female,Other,Chemistry,156,3,19,2,0,PCTWHITE
+19470,"SUESS, DANIEL LEIF MIGDOW",SUESS,DANIEL,Male,Assistant,Chemistry,26,0,2,0,1,PCTWHITE
+7775,"SURENDRANATH, YOGESH",SURENDRANATH,YOGESH,Female,Associate,Chemistry,73,4,12,8,5,PCTWHITE
+1340,"SWAGER, TIMOTHY M",SWAGER,TIMOTHY,Male,Professor,Chemistry,382,13,59,73,1,PCTWHITE
+1810,"VAN VOORHIS, TROY",VAN VOORHIS,TROY,Male,Professor,Chemistry,160,7,6,2,0,PCTWHITE
+23735,"WANG, XIAO",WANG,XIAO,Female,Assistant,Chemistry,49,4,0,0,2,PCTAPI
+23530,"WENDLANDT, ALISON",WENDLANDT,ALISON,Female,Assistant,Chemistry,13,0,0,0,1,PCTWHITE
+2070,"WILLARD, ADAM P",WILLARD,ADAM,Male,Associate,Chemistry,61,0,5,0,1,PCTWHITE
+19365,"ZHANG, BIN",ZHANG,BIN,Male,Assistant,Chemistry,139,10,3,0,3,PCTAPI
+2045,"AMIN, SAURABH",AMIN,SAURABH,Male,Associate,Civil and Environmental Engineering,28,45,5,0,4,PCTAPI
+2200,"BARNHART, CYNTHIA",BARNHART,CYNTHIA,Female,Professor,Civil and Environmental Engineering,49,4,20,0,0,PCTWHITE
+2540,"BEN-AKIVA, MOSHE E",BEN-AKIVA,MOSHE,Male,Professor,Civil and Environmental Engineering,151,21,17,2,2,PCTWHITE
+14570,"BOUROUIBA, LYDIA",BOUROUIBA,LYDIA,Female,Associate,Civil and Environmental Engineering,37,4,10,2,0,PCTWHITE
+14570,"BOUROUIBA, LYDIA",BOUROUIBA,LYDIA,Female,Associate,Mechanical Engineering,37,4,10,2,0,PCTWHITE
+3180,"BUEHLER, MARKUS J",BUEHLER,MARKUS,Male,Professor,Civil and Environmental Engineering,465,20,26,10,1,PCTWHITE
+3310,"BUYUKOZTURK, ORAL",BUYUKOZTURK,ORAL,Female,Professor,Civil and Environmental Engineering,79,198,13,15,2,PCTWHITE
+24025,"CARSTENSEN, JOSEPHINE VOIGT",CARSTENSEN,JOSEPHINE,Female,Assistant,Civil and Environmental Engineering,7,9,1,0,3,PCTWHITE
+15230,"COHEN, TAL",COHEN,TAL,Female,Assistant,Civil and Environmental Engineering,35,0,3,0,0,PCTWHITE
+15230,"COHEN, TAL",COHEN,TAL,Female,Assistant,Mechanical Engineering,35,0,3,0,0,PCTWHITE
+14975,"CORDERO SANCHEZ, OTTO X",CORDERO SANCHEZ,OTTO,Male,Associate,Civil and Environmental Engineering,25,0,2,0,1,PCTWHITE
+18370,"DES MARAIS, DAVID LEE",DES MARAIS,DAVID,Male,Assistant,Civil and Environmental Engineering,29,1,0,0,3,PCTWHITE
+4475,"EINSTEIN, HERBERT H",EINSTEIN,HERBERT,Female,Professor,Civil and Environmental Engineering,80,9,13,0,2,PCTWHITE
+1680,"ELTAHIR, ELFATIH A. B",ELTAHIR,ELFATIH,Female,Professor,Civil and Environmental Engineering,99,1,15,0,3,PCTWHITE
+4915,"ENTEKHABI, DARA",ENTEKHABI,DARA,Female,Professor,Civil and Environmental Engineering,178,92,44,0,2,PCTWHITE
+2725,"GSCHWEND, PHILIP M",GSCHWEND,PHILIP,Male,Professor,Civil and Environmental Engineering,45,1,27,1,2,PCTWHITE
+5280,"HARVEY, CHARLES F",HARVEY,CHARLES,Male,Professor,Civil and Environmental Engineering,63,7,22,2,2,PCTWHITE
+9350,"HEALD, COLETTE L",HEALD,COLETTE,Female,Professor,Civil and Environmental Engineering,136,1,9,0,2,PCTWHITE
+14990,"JADBABAIE-MOGHADAM, ALI",JADBABAIE-MOGHADAM,ALI,Male,Professor,Civil and Environmental Engineering,44,130,12,0,1,PCTWHITE
+2535,"JAILLET, PATRICK",JAILLET,PATRICK,Male,Professor,Civil and Environmental Engineering,57,39,10,0,2,PCTWHITE
+2535,"JAILLET, PATRICK",JAILLET,PATRICK,Male,Professor,Electrical Engineering and Computer Sciences,57,39,10,0,2,PCTWHITE
+5660,"JUANES, RUBEN",JUANES,RUBEN,Female,Professor,Civil and Environmental Engineering,138,36,9,0,2,PCTHISPANIC
+4520,"KROLL, JESSE",KROLL,JESSE,Female,Professor,Civil and Environmental Engineering,179,3,23,0,3,PCTWHITE
+19350,"LIEBERMAN, TAMI DANIELLE",LIEBERMAN,TAMI,Female,Assistant,Civil and Environmental Engineering,18,0,1,0,2,PCTWHITE
+15105,"MARELLI, BENEDETTO",MARELLI,BENEDETTO,Female,Assistant,Civil and Environmental Engineering,73,3,5,15,3,PCTWHITE
+15015,"MASIC, ADMIR",MASIC,ADMIR,Male,Assistant,Civil and Environmental Engineering,89,3,0,2,2,PCTWHITE
+4465,"MCLAUGHLIN, DENNIS",MCLAUGHLIN,DENNIS,Male,Professor,Civil and Environmental Engineering,44,10,12,0,2,PCTWHITE
+4445,"NEPF, HEIDI",NEPF,HEIDI,Female,Professor,Civil and Environmental Engineering,99,2,12,0,4,PCTWHITE
+4285,"OCHSENDORF, JOHN A",OCHSENDORF,JOHN,Male,Professor,Civil and Environmental Engineering,40,12,1,0,5,PCTWHITE
+9615,"OSORIO PIZANO, CAROLINA",OSORIO PIZANO,CAROLINA,Female,Associate,Civil and Environmental Engineering,29,3,3,0,0,PCTWHITE
+23840,"PELLENQ, ROLAND J M",PELLENQ,ROLAND,Male,Other,Civil and Environmental Engineering,158,25,0,1,0,PCTWHITE
+17425,"PLATA, DESIREE LOUISE",PLATA,DESIREE,Female,Assistant,Civil and Environmental Engineering,61,0,2,2,1,PCTHISPANIC
+3810,"POLZ, MARTIN F",POLZ,MARTIN,Female,Professor,Civil and Environmental Engineering,99,1,13,0,0,PCTWHITE
+19340,"SAAVEDRA SANCHEZ, SERGUEI",SAAVEDRA SANCHEZ,SERGUEI,Female,Assistant,Civil and Environmental Engineering,47,0,1,0,2,PCTWHITE
+7375,"SHEFFI, YOSEF",SHEFFI,YOSEF,Female,Professor,Civil and Environmental Engineering,17,0,23,0,0,PCTWHITE
+2185,"SIMCHI-LEVI, DAVID",SIMCHI-LEVI,DAVID,Male,Professor,Civil and Environmental Engineering,105,6,7,0,3,PCTWHITE
+4415,"ULM, FRANZ-JOSEF",ULM,FRANZ-JOSEF,Male,Professor,Civil and Environmental Engineering,166,28,6,3,2,PCTWHITE
+6195,"WHITTLE, ANDREW",WHITTLE,ANDREW,Male,Professor,Civil and Environmental Engineering,77,29,7,2,3,PCTWHITE
+23955,"WILLIAMS, EARLE R",WILLIAMS,EARLE,Female,Other,Civil and Environmental Engineering,130,4,23,0,0,PCTWHITE
+4825,"WILLIAMS, JOHN R",WILLIAMS,JOHN,Male,Professor,Civil and Environmental Engineering,68,22,3,3,2,PCTWHITE
+24095,"WU, CATHY",WU,CATHY,Female,Assistant,Civil and Environmental Engineering,5,9,0,0,3,PCTAPI
+7400,"ADALSTEINSSON, ELFAR",ADALSTEINSSON,ELFAR,Female,Professor,Electrical Engineering and Computer Sciences,102,16,21,13,2,PCTWHITE
+1130,"AGARWAL, ANANT",AGARWAL,ANANT,Female,Professor,Electrical Engineering and Computer Sciences,25,41,12,20,0,PCTAPI
+2080,"AKINWANDE, AKINTUNDE I",AKINWANDE,AKINTUNDE,Female,Professor,Electrical Engineering and Computer Sciences,58,53,25,16,2,PCTBLACK
+1100,"AMARASINGHE, SAMAN P",AMARASINGHE,SAMAN,Female,Professor,Electrical Engineering and Computer Sciences,31,65,17,8,3,PCTWHITE
+1560,"BALAKRISHNAN, HARI",BALAKRISHNAN,HARI,Female,Professor,Electrical Engineering and Computer Sciences,38,96,15,7,1,PCTAPI
+1330,"BALDO, MARC A",BALDO,MARC,Male,Professor,Electrical Engineering and Computer Sciences,106,17,12,11,1,PCTWHITE
+2350,"BARZILAY, REGINA",BARZILAY,REGINA,Male,Professor,Electrical Engineering and Computer Sciences,57,47,19,6,1,PCTWHITE
+1325,"BERGGREN, KARL K",BERGGREN,KARL,Male,Professor,Electrical Engineering and Computer Sciences,187,66,31,18,2,PCTWHITE
+2210,"BHATIA, SANGEETA N",BHATIA,SANGEETA,Female,Professor,Electrical Engineering and Computer Sciences,240,3,27,39,2,PCTAPI
+1270,"BONING, DUANE S",BONING,DUANE,Female,Professor,Electrical Engineering and Computer Sciences,47,50,8,1,3,PCTWHITE
+23910,"BOTTERUD, AUDUN",BOTTERUD,AUDUN,Female,Other,Electrical Engineering and Computer Sciences,67,36,2,0,0,PCTWHITE
+3995,"BRAIDA, LOUIS D",BRAIDA,LOUIS,Male,Professor,Electrical Engineering and Computer Sciences,42,1,26,1,0,PCTWHITE
+1345,"BULOVIC, VLADIMIR",BULOVIC,VLADIMIR,Female,Professor,Electrical Engineering and Computer Sciences,204,52,14,70,2,PCTWHITE
+3660,"CHAN, VINCENT W. S",CHAN,VINCENT,Male,Professor,Electrical Engineering and Computer Sciences,114,102,27,5,1,PCTAPI
+1110,"CHANDRAKASAN, ANANTHA P",CHANDRAKASAN,ANANTHA,Female,Professor,Electrical Engineering and Computer Sciences,134,203,11,24,0,PCTWHITE
+1200,"CHLIPALA, ADAM",CHLIPALA,ADAM,Male,Associate,Electrical Engineering and Computer Sciences,23,39,10,0,2,PCTWHITE
+2575,"CHUANG, ISAAC",CHUANG,ISAAC,Male,Professor,Electrical Engineering and Computer Sciences,103,17,26,9,2,PCTAPI
+2575,"CHUANG, ISAAC",CHUANG,ISAAC,Male,Professor,Physics,103,17,26,9,2,PCTAPI
+3200,"CLARK, DAVID D",CLARK,DAVID,Male,Other,Electrical Engineering and Computer Sciences,25,3,34,0,0,PCTWHITE
+4235,"DAHLEH, MUNTHER A",DAHLEH,MUNTHER,Male,Professor,Electrical Engineering and Computer Sciences,62,101,36,4,0,PCTWHITE
+1285,"DANIEL, LUCA",DANIEL,LUCA,Male,Professor,Electrical Engineering and Computer Sciences,54,69,4,5,2,PCTWHITE
+7770,"DASKALAKIS, KONSTANTINOS",DASKALAKIS,KONSTANTINOS,Female,Professor,Electrical Engineering and Computer Sciences,27,67,6,0,2,PCTWHITE
+4315,"DAVIS, RANDALL",DAVIS,RANDALL,Female,Professor,Electrical Engineering and Computer Sciences,23,53,18,6,3,PCTWHITE
+1265,"DEL ALAMO, JESUS A",DEL ALAMO,JESUS,Male,Professor,Electrical Engineering and Computer Sciences,135,91,9,3,2,PCTWHITE
+1535,"DEMAINE, ERIK D",DEMAINE,ERIK,Male,Professor,Electrical Engineering and Computer Sciences,176,158,17,3,2,PCTWHITE
+1080,"DEVADAS, SRINIVAS",DEVADAS,SRINIVAS,Male,Professor,Electrical Engineering and Computer Sciences,62,105,23,9,2,PCTWHITE
+1020,"DURAND, FREDERIC",DURAND,FREDERIC,Female,Professor,Electrical Engineering and Computer Sciences,132,105,7,31,4,PCTWHITE
+2085,"ENGLUND, DIRK R",ENGLUND,DIRK,Male,Associate,Electrical Engineering and Computer Sciences,209,194,40,44,2,PCTWHITE
+4870,"FISHER, JOHN W",FISHER,JOHN,Male,Other,Electrical Engineering and Computer Sciences,37,129,12,4,0,PCTWHITE
+1025,"FREEMAN, WILLIAM T",FREEMAN,WILLIAM,Male,Other,Electrical Engineering and Computer Sciences,78,112,12,20,1,PCTWHITE
+2745,"FUJIMOTO, JAMES G",FUJIMOTO,JAMES,Male,Professor,Electrical Engineering and Computer Sciences,367,134,57,24,2,PCTAPI
+1520,"GIFFORD, DAVID K",GIFFORD,DAVID,Male,Professor,Electrical Engineering and Computer Sciences,94,18,38,3,0,PCTWHITE
+2315,"GLASS, JAMES R",GLASS,JAMES,Male,Other,Electrical Engineering and Computer Sciences,37,165,14,7,1,PCTWHITE
+4335,"GOLDWASSER, SHAFRIRA",GOLDWASSER,SHAFRIRA,Female,Professor,Electrical Engineering and Computer Sciences,12,49,13,1,1,PCTWHITE
+5570,"GOLLAND, POLINA",GOLLAND,POLINA,Female,Professor,Electrical Engineering and Computer Sciences,70,87,27,0,1,PCTWHITE
+3120,"GRAY, MARTHA L",GRAY,MARTHA,Female,Professor,Electrical Engineering and Computer Sciences,28,2,40,0,2,PCTWHITE
+5090,"GRIMSON, WILLIAM E",GRIMSON,WILLIAM,Male,Professor,Electrical Engineering and Computer Sciences,20,36,39,2,5,PCTWHITE
+1510,"GUTTAG, JOHN V",GUTTAG,JOHN,Male,Professor,Electrical Engineering and Computer Sciences,44,42,24,8,8,PCTWHITE
+14865,"HAN, RUONAN",HAN,RUONAN,Female,Associate,Electrical Engineering and Computer Sciences,33,34,15,10,2,PCTAPI
+6875,"HELDT, THOMAS",HELDT,THOMAS,Male,Associate,Electrical Engineering and Computer Sciences,44,35,4,16,1,PCTWHITE
+9305,"HU, QING",HU,QING,Female,Professor,Electrical Engineering and Computer Sciences,149,76,57,7,2,PCTAPI
+23895,"HUFNAGEL, STEFANIE S",HUFNAGEL,STEFANIE,Female,Other,Electrical Engineering and Computer Sciences,70,9,20,0,1,PCTWHITE
+3680,"INDYK, PIOTR",INDYK,PIOTR,Female,Professor,Electrical Engineering and Computer Sciences,22,84,14,7,2,PCTWHITE
+6035,"JACKSON, DANIEL",JACKSON,DANIEL,Male,Professor,Electrical Engineering and Computer Sciences,22,57,14,1,1,PCTBLACK
+1545,"KAASHOEK, M FRANS",KAASHOEK,M,Female,Professor,Electrical Engineering and Computer Sciences,20,36,16,0,2,PCTWHITE
+2150,"KAELBLING, LESLIE P",KAELBLING,LESLIE,Male,Professor,Electrical Engineering and Computer Sciences,25,56,23,0,2,PCTWHITE
+1500,"KARGER, DAVID R",KARGER,DAVID,Male,Professor,Electrical Engineering and Computer Sciences,42,96,9,14,2,PCTWHITE
+1490,"KATABI, DINA",KATABI,DINA,Female,Professor,Electrical Engineering and Computer Sciences,58,89,17,30,2,PCTWHITE
+1950,"KELLIS, MANOLIS",KELLIS,MANOLIS,Female,Professor,Electrical Engineering and Computer Sciences,249,14,47,6,2,PCTWHITE
+5785,"KIRTLEY, JAMES L",KIRTLEY,JAMES,Male,Professor,Electrical Engineering and Computer Sciences,69,71,7,11,0,PCTWHITE
+1280,"KONG, JING",KONG,JING,Female,Professor,Electrical Engineering and Computer Sciences,425,48,6,32,2,PCTAPI
+19135,"KRASKA, TIM",KRASKA,TIM,Male,Associate,Electrical Engineering and Computer Sciences,39,64,4,0,0,PCTWHITE
+1335,"LANG, JEFFREY H",LANG,JEFFREY,Male,Professor,Electrical Engineering and Computer Sciences,69,73,8,19,3,PCTWHITE
+2715,"LEE, HAE-SEUNG",LEE,HAE-SEUNG,Female,Professor,Electrical Engineering and Computer Sciences,184,44,2,8,1,PCTWHITE
+1370,"LEEB, STEVEN B",LEEB,STEVEN,Male,Professor,Electrical Engineering and Computer Sciences,68,58,22,11,2,PCTWHITE
+1370,"LEEB, STEVEN B",LEEB,STEVEN,Male,Professor,Mechanical Engineering,68,58,22,11,2,PCTWHITE
+1185,"LEISERSON, CHARLES E",LEISERSON,CHARLES,Male,Professor,Electrical Engineering and Computer Sciences,22,42,20,13,2,PCTWHITE
+4795,"LOZANO-PEREZ, TOMAS",LOZANO-PEREZ,TOMAS,Female,Professor,Electrical Engineering and Computer Sciences,16,49,5,0,2,PCTWHITE
+6700,"LYNCH, NANCY ANN",LYNCH,NANCY,Female,Professor,Electrical Engineering and Computer Sciences,39,88,30,4,2,PCTWHITE
+1475,"MADDEN, SAMUEL R",MADDEN,SAMUEL,Male,Professor,Electrical Engineering and Computer Sciences,83,121,18,2,1,PCTWHITE
+1055,"MATUSIK, WOJCIECH",MATUSIK,WOJCIECH,Male,Professor,Electrical Engineering and Computer Sciences,122,88,12,70,3,PCTWHITE
+1505,"MEDARD, MURIEL",MEDARD,MURIEL,Female,Professor,Electrical Engineering and Computer Sciences,136,322,27,62,2,PCTBLACK
+1170,"MILLER, ROBERT C",MILLER,ROBERT,Male,Professor,Electrical Engineering and Computer Sciences,57,96,3,0,3,PCTWHITE
+1530,"MORRIS, ROBERT TAPPAN",MORRIS,ROBERT,Male,Professor,Electrical Engineering and Computer Sciences,46,32,6,0,1,PCTWHITE
+23740,"OLIVA, AUDE",OLIVA,AUDE,Female,Other,Electrical Engineering and Computer Sciences,188,30,10,0,0,PCTHISPANIC
+23710,"OLIVER, WILLIAM D",OLIVER,WILLIAM,Male,Associate,Electrical Engineering and Computer Sciences,79,7,17,6,5,PCTWHITE
+23710,"OLIVER, WILLIAM D",OLIVER,WILLIAM,Male,Associate,Physics,79,7,17,6,5,PCTWHITE
+2040,"OZDAGLAR, ASUMAN E",OZDAGLAR,ASUMAN,Female,Professor,Electrical Engineering and Computer Sciences,119,87,9,3,1,PCTWHITE
+1275,"PALACIOS, TOMAS",PALACIOS,TOMAS,Female,Professor,Electrical Engineering and Computer Sciences,242,100,44,30,3,PCTHISPANIC
+5120,"PARRILO, PABLO A",PARRILO,PABLO,Male,Professor,Electrical Engineering and Computer Sciences,81,56,10,0,3,PCTWHITE
+4115,"PERREAULT, DAVID J",PERREAULT,DAVID,Male,Professor,Electrical Engineering and Computer Sciences,81,115,10,64,2,PCTWHITE
+6705,"POLYANSKIY, YURY",POLYANSKIY,YURY,Female,Associate,Electrical Engineering and Computer Sciences,39,68,3,1,2,PCTWHITE
+1710,"RAM, RAJEEV J",RAM,RAJEEV,Male,Professor,Electrical Engineering and Computer Sciences,99,107,36,31,2,PCTAPI
+3985,"REED, CHARLOTTE M",REED,CHARLOTTE,Female,Other,Electrical Engineering and Computer Sciences,106,9,11,1,0,PCTWHITE
+1070,"RINARD, MARTIN C",RINARD,MARTIN,Female,Professor,Electrical Engineering and Computer Sciences,49,109,20,6,2,PCTWHITE
+15275,"RUPP, JENNIFER LILIA MARGUERITE",RUPP,JENNIFER,Female,Associate,Electrical Engineering and Computer Sciences,127,7,1,6,1,PCTWHITE
+15275,"RUPP, JENNIFER LILIA MARGUERITE",RUPP,JENNIFER,Female,Associate,Materials Science and Engineering,127,7,1,6,1,PCTWHITE
+1515,"RUS, DANIELA L",RUS,DANIELA,Female,Professor,Electrical Engineering and Computer Sciences,166,343,36,40,0,PCTWHITE
+10060,"SANCHEZ MARTIN, DANIEL",SANCHEZ MARTIN,DANIEL,Male,Associate,Electrical Engineering and Computer Sciences,29,50,4,0,2,PCTWHITE
+1790,"SCHMIDT, MARTIN ARNOLD",SCHMIDT,MARTIN,Female,Professor,Electrical Engineering and Computer Sciences,205,32,9,44,0,PCTWHITE
+1480,"SHAH, DEVAVRAT",SHAH,DEVAVRAT,Female,Professor,Electrical Engineering and Computer Sciences,95,102,18,12,1,PCTAPI
+1180,"SHAVIT, NIR N",SHAVIT,NIR,Male,Professor,Electrical Engineering and Computer Sciences,28,60,12,25,2,PCTWHITE
+4680,"SHROBE, HOWARD E",SHROBE,HOWARD,Female,Other,Electrical Engineering and Computer Sciences,10,24,37,0,2,PCTWHITE
+3035,"SODINI, CHARLES G",SODINI,CHARLES,Male,Other,Electrical Engineering and Computer Sciences,35,52,5,12,0,PCTWHITE
+1190,"SOLAR LEZAMA, ARMANDO",SOLAR LEZAMA,ARMANDO,Male,Associate,Electrical Engineering and Computer Sciences,27,55,11,0,1,PCTWHITE
+3640,"SZE, VIVIENNE",SZE,VIVIENNE,Male,Associate,Electrical Engineering and Computer Sciences,25,52,2,29,2,PCTAPI
+6885,"SZOLOVITS, PETER",SZOLOVITS,PETER,Male,Professor,Electrical Engineering and Computer Sciences,81,18,46,0,2,PCTWHITE
+4830,"TEDRAKE, RUSSELL L",TEDRAKE,RUSSELL,Female,Professor,Electrical Engineering and Computer Sciences,29,100,20,2,2,PCTWHITE
+1040,"TORRALBA, ANTONIO",TORRALBA,ANTONIO,Male,Professor,Electrical Engineering and Computer Sciences,124,120,13,4,0,PCTHISPANIC
+2365,"TSITSIKLIS, JOHN N",TSITSIKLIS,JOHN,Male,Professor,Electrical Engineering and Computer Sciences,87,45,13,7,0,PCTWHITE
+4340,"VAIKUNTANATHAN, VINOD",VAIKUNTANATHAN,VINOD,Female,Associate,Electrical Engineering and Computer Sciences,17,91,7,9,1,PCTWHITE
+3655,"VOLDMAN, JOEL",VOLDMAN,JOEL,Male,Professor,Electrical Engineering and Computer Sciences,69,10,18,8,0,PCTWHITE
+1350,"WATTS, MICHAEL",WATTS,MICHAEL,Male,Associate,Electrical Engineering and Computer Sciences,94,150,12,36,0,PCTWHITE
+1095,"WHITE, JACOB K",WHITE,JACOB,Male,Professor,Electrical Engineering and Computer Sciences,83,57,17,1,2,PCTWHITE
+15290,"WILLIAMS, RICHARD RYAN",WILLIAMS,RICHARD,Male,Associate,Electrical Engineering and Computer Sciences,60,59,3,0,2,PCTWHITE
+2570,"WONG, NGAI CHUEN",WONG,NGAI,Male,Other,Electrical Engineering and Computer Sciences,118,139,20,4,0,PCTAPI
+1770,"WORNELL, GREGORY W",WORNELL,GREGORY,Male,Professor,Electrical Engineering and Computer Sciences,50,107,28,7,2,PCTWHITE
+7235,"ZHENG, LIZHONG",ZHENG,LIZHONG,Female,Professor,Electrical Engineering and Computer Sciences,39,65,13,0,2,PCTAPI
+1085,"AGARWAL, ANURADHA",AGARWAL,ANURADHA,Female,Other,Materials Science and Engineering,120,116,6,22,0,PCTAPI
+2565,"ALEXANDER-KATZ, ALFREDO",ALEXANDER-KATZ,ALFREDO,Female,Associate,Materials Science and Engineering,114,1,4,2,5,PCTWHITE
+7140,"ALLANORE, ANTOINE",ALLANORE,ANTOINE,Male,Associate,Materials Science and Engineering,59,7,8,6,2,PCTWHITE
+2055,"BEACH, GEOFFREY STEPHEN",BEACH,GEOFFREY,Male,Professor,Materials Science and Engineering,92,4,10,10,3,PCTWHITE
+2285,"CARTER, W CRAIG",CARTER,W,Female,Professor,Materials Science and Engineering,95,2,7,9,2,PCTWHITE
+2235,"CHIANG, YET-MING",CHIANG,YET-MING,Female,Professor,Materials Science and Engineering,171,0,30,87,2,PCTAPI
+1425,"CIMA, MICHAEL J",CIMA,MICHAEL,Male,Professor,Materials Science and Engineering,114,5,11,165,2,PCTWHITE
+3125,"CLARK, JOEL P",CLARK,JOEL,Male,Other,Materials Science and Engineering,13,0,4,0,0,PCTWHITE
+3650,"DAO, MING",DAO,MING,Male,Other,Materials Science and Engineering,137,6,7,1,2,PCTAPI
+6830,"EAGAR, THOMAS W",EAGAR,THOMAS,Male,Professor,Materials Science and Engineering,17,0,11,9,4,PCTWHITE
+2060,"FINK, YOEL",FINK,YOEL,Female,Professor,Materials Science and Engineering,92,34,16,33,0,PCTWHITE
+1260,"FITZGERALD, EUGENE A",FITZGERALD,EUGENE,Female,Professor,Materials Science and Engineering,332,92,23,41,2,PCTWHITE
+5300,"GIBSON, LORNA J",GIBSON,LORNA,Female,Professor,Materials Science and Engineering,59,1,8,2,2,PCTWHITE
+5300,"GIBSON, LORNA J",GIBSON,LORNA,Female,Professor,Mechanical Engineering,59,1,8,2,2,PCTWHITE
+15535,"GOMEZ-BOMBARELLI, RAFAEL",GOMEZ-BOMBARELLI,RAFAEL,Female,Assistant,Materials Science and Engineering,52,2,2,8,2,PCTWHITE
+1805,"GRADECAK, SILVIJA",GRADECAK,SILVIJA,Female,Professor,Materials Science and Engineering,104,11,2,5,0,PCTWHITE
+1860,"GROSSMAN, JEFFREY C",GROSSMAN,JEFFREY,Male,Professor,Materials Science and Engineering,226,4,11,28,0,PCTWHITE
+9825,"HOLTEN-ANDERSEN, NIELS",HOLTEN-ANDERSEN,NIELS,Female,Associate,Materials Science and Engineering,40,0,3,4,2,PCTWHITE
+1415,"HOSLER, DOROTHY",HOSLER,DOROTHY,Female,Professor,Materials Science and Engineering,7,0,1,0,2,PCTWHITE
+2760,"HU, JUEJUN",HU,JUEJUN,Female,Associate,Materials Science and Engineering,174,151,22,26,2,PCTAPI
+15020,"JARAMILLO, RAFAEL",JARAMILLO,RAFAEL,Female,Assistant,Materials Science and Engineering,55,4,6,0,2,PCTHISPANIC
+15225,"KIM, JEEHWAN",KIM,JEEHWAN,Female,Associate,Materials Science and Engineering,131,12,11,18,2,PCTAPI
+15225,"KIM, JEEHWAN",KIM,JEEHWAN,Female,Associate,Mechanical Engineering,131,12,11,18,2,PCTAPI
+1090,"KIMERLING, LIONEL C",KIMERLING,LIONEL,Male,Professor,Materials Science and Engineering,208,218,26,53,0,PCTWHITE
+3750,"KIRCHAIN, RANDOLPH E",KIRCHAIN,RANDOLPH,Female,Other,Materials Science and Engineering,88,42,3,0,1,PCTWHITE
+23975,"LEBEAU, JAMES MICHAEL",LEBEAU,JAMES,Male,Associate,Materials Science and Engineering,171,5,2,0,2,PCTWHITE
+1420,"LECHTMAN, HEATHER NAN",LECHTMAN,HEATHER,Female,Professor,Materials Science and Engineering,5,0,2,0,2,PCTWHITE
+7110,"LI, JU",LI,JU,Male,Professor,Materials Science and Engineering,772,51,17,11,5,PCTAPI
+7110,"LI, JU",LI,JU,Male,Professor,Nuclear Science and Engineering,772,51,17,11,5,PCTAPI
+15165,"MACFARLANE, ROBERT J",MACFARLANE,ROBERT,Male,Assistant,Materials Science and Engineering,45,0,5,1,2,PCTWHITE
+1105,"MICHEL, JURGEN",MICHEL,JURGEN,Male,Other,Materials Science and Engineering,144,150,9,25,1,PCTWHITE
+14585,"OLIVETTI, ELSA A",OLIVETTI,ELSA,Female,Associate,Materials Science and Engineering,68,20,13,0,6,PCTWHITE
+2255,"ORTIZ, CHRISTINE",ORTIZ,CHRISTINE,Female,Professor,Materials Science and Engineering,91,4,10,2,1,PCTHISPANIC
+15210,"ORTONY, JULIA H",ORTONY,JULIA,Female,Assistant,Materials Science and Engineering,18,0,1,1,1,PCTWHITE
+1320,"ROSS, CAROLINE A",ROSS,CAROLINE,Female,Professor,Materials Science and Engineering,372,28,30,6,2,PCTWHITE
+22965,"ROSS, FRANCES MARY",ROSS,FRANCES,Female,Professor,Materials Science and Engineering,140,7,2,0,2,PCTWHITE
+3250,"RUBNER, MICHAEL F",RUBNER,MICHAEL,Male,Other,Materials Science and Engineering,97,1,16,48,0,PCTWHITE
+3725,"SADOWAY, DONALD ROBERT",SADOWAY,DONALD,Female,Professor,Materials Science and Engineering,64,10,24,20,2,PCTWHITE
+1235,"SCHUH, CHRISTOPHER A",SCHUH,CHRISTOPHER,Male,Professor,Materials Science and Engineering,266,2,31,43,1,PCTWHITE
+1375,"SHAO-HORN, YANG",SHAO-HORN,YANG,Female,Professor,Materials Science and Engineering,344,16,17,22,2,PCTWHITE
+1375,"SHAO-HORN, YANG",SHAO-HORN,YANG,Female,Professor,Mechanical Engineering,344,16,17,22,2,PCTWHITE
+19380,"TASAN, CEMAL",TASAN,CEMAL,Male,Associate,Materials Science and Engineering,98,4,5,1,2,PCTWHITE
+1300,"THOMPSON, CARL VERNETTE",THOMPSON,CARL,Female,Professor,Materials Science and Engineering,153,17,9,3,1,PCTWHITE
+3730,"TULLER, HARRY L",TULLER,HARRY,Female,Professor,Materials Science and Engineering,228,16,28,23,2,PCTWHITE
+6405,"VELASQUEZ-HELLER, LUIS FERNANDO",VELASQUEZ-HELLER,LUIS,Male,Other,Materials Science and Engineering,58,59,16,18,2,PCTWHITE
+1610,"YILDIZ, BILGE",YILDIZ,BILGE,Female,Professor,Materials Science and Engineering,163,9,11,1,1,PCTWHITE
+1610,"YILDIZ, BILGE",YILDIZ,BILGE,Female,Professor,Nuclear Science and Engineering,163,9,11,1,1,PCTWHITE
+1015,"ABEYARATNE, ROHAN",ABEYARATNE,ROHAN,Female,Professor,Mechanical Engineering,19,2,4,0,2,PCTWHITE
+24180,"AHMED, FAEZ",AHMED,FAEZ,Female,Assistant,Mechanical Engineering,13,15,0,0,1,PCTAPI
+1140,"AKYLAS, TRIANTAPHYLLOS R",AKYLAS,TRIANTAPHYLLOS,Female,Professor,Mechanical Engineering,41,1,16,0,2,PCTWHITE
+1245,"ANAND, LALLIT",ANAND,LALLIT,Female,Professor,Mechanical Engineering,64,7,13,0,2,PCTAPI
+4835,"ANNASWAMY, ANURADHA M",ANNASWAMY,ANURADHA,Female,Other,Mechanical Engineering,86,153,40,11,0,PCTWHITE
+14565,"ANTHONY, BRIAN",ANTHONY,BRIAN,Male,Other,Mechanical Engineering,41,61,4,13,1,PCTWHITE
+3345,"ASADA, HARUHIKO",ASADA,HARUHIKO,Female,Professor,Mechanical Engineering,96,195,21,58,2,PCTAPI
+3320,"BARBASTATHIS, GEORGE",BARBASTATHIS,GEORGE,Male,Professor,Mechanical Engineering,153,203,16,32,1,PCTWHITE
+24130,"BEBERMEYER, ROBERT E",BEBERMEYER,ROBERT,Male,Other,Mechanical Engineering,0,0,0,0,4,PCTWHITE
+6010,"BENJAMIN, MICHAEL R",BENJAMIN,MICHAEL,Male,Other,Mechanical Engineering,8,26,7,1,1,PCTWHITE
+19390,"BISCHOFBERGER, IRMGARD",BISCHOFBERGER,IRMGARD,Female,Assistant,Mechanical Engineering,17,8,0,2,2,PCTWHITE
+3025,"BRISSON, JOHN G",BRISSON,JOHN,Male,Professor,Mechanical Engineering,23,23,16,2,2,PCTWHITE
+2280,"BUIE, CULLEN",BUIE,CULLEN,Male,Associate,Mechanical Engineering,38,17,15,7,2,PCTWHITE
+1815,"BUONASSISI, ANTHONY",BUONASSISI,ANTHONY,Male,Professor,Mechanical Engineering,265,130,30,8,2,PCTWHITE
+4310,"CELANOVIC, IVAN L",CELANOVIC,IVAN,Female,Other,Mechanical Engineering,54,38,3,8,0,PCTWHITE
+3270,"CHEN, GANG",CHEN,GANG,Female,Professor,Mechanical Engineering,1385,160,46,40,1,PCTAPI
+3555,"CHENG, WAI K",CHENG,WAI,Female,Professor,Mechanical Engineering,38,32,9,0,2,PCTAPI
+3710,"CHUN, JUNG-HOON",CHUN,JUNG-HOON,Male,Professor,Mechanical Engineering,56,20,8,10,3,PCTAPI
+3340,"CULPEPPER, MARTIN",CULPEPPER,MARTIN,Female,Professor,Mechanical Engineering,52,21,14,14,3,PCTWHITE
+4840,"DEL VECCHIO, DOMITILLA",DEL VECCHIO,DOMITILLA,Female,Professor,Mechanical Engineering,58,92,20,2,2,PCTWHITE
+23565,"DENG, SILI",DENG,SILI,Female,Assistant,Mechanical Engineering,23,2,0,0,2,PCTAPI
+2215,"FANG, XUANLAI",FANG,XUANLAI,Female,Professor,Mechanical Engineering,174,56,13,15,2,PCTAPI
+1010,"FREY, DANIEL",FREY,DANIEL,Male,Professor,Mechanical Engineering,49,29,4,3,1,PCTWHITE
+17780,"GALLANT, BETAR MAURKAH",GALLANT,BETAR,Female,Assistant,Mechanical Engineering,36,1,5,7,2,PCTWHITE
+2990,"GHONIEM, AHMED F",GHONIEM,AHMED,Female,Professor,Mechanical Engineering,189,63,16,8,2,PCTWHITE
+23665,"GILLESPY, ANDREW J",GILLESPY,ANDREW,Male,Other,Mechanical Engineering,0,0,0,0,0,PCTWHITE
+23575,"GOPINATH, ASHWIN",GOPINATH,ASHWIN,Male,Assistant,Mechanical Engineering,21,9,1,0,2,PCTAPI
+3700,"GRAVES, STEPHEN C",GRAVES,STEPHEN,Male,Professor,Mechanical Engineering,61,4,4,0,2,PCTWHITE
+15180,"GUO, MING",GUO,MING,Male,Assistant,Mechanical Engineering,37,0,4,0,1,PCTAPI
+7990,"GUTOWSKI, TIMOTHY G",GUTOWSKI,TIMOTHY,Male,Professor,Mechanical Engineering,41,22,9,4,5,PCTWHITE
+4270,"HADJICONSTANTINOU, NICOLAS",HADJICONSTANTINOU,NICOLAS,Female,Professor,Mechanical Engineering,62,16,6,5,2,PCTWHITE
+1215,"HARDT, DAVID E",HARDT,DAVID,Male,Professor,Mechanical Engineering,35,12,9,4,2,PCTWHITE
+8980,"HART, ANASTASIOS JOHN",HART,ANASTASIOS,Male,Associate,Mechanical Engineering,266,16,26,74,2,PCTWHITE
+5640,"HART, DOUGLAS",HART,DOUGLAS,Female,Professor,Mechanical Engineering,18,5,17,29,4,PCTWHITE
+16000,"HENRY, ASEGUN S",HENRY,ASEGUN,Female,Associate,Mechanical Engineering,65,8,7,3,2,PCTWHITE
+3095,"HOSOI, ANETTE PEKO",HOSOI,ANETTE,Female,Professor,Mechanical Engineering,61,12,13,11,5,PCTWHITE
+5885,"HUNTER, IAN",HUNTER,IAN,Female,Professor,Mechanical Engineering,57,52,11,181,0,PCTWHITE
+23915,"IWASA, YUKIKAZU",IWASA,YUKIKAZU,Female,Other,Mechanical Engineering,133,2,31,11,0,PCTAPI
+2820,"JACOBSON, JOSEPH",JACOBSON,JOSEPH,Male,Associate,Mechanical Engineering,32,5,8,32,2,PCTWHITE
+2820,"JACOBSON, JOSEPH",JACOBSON,JOSEPH,Male,Associate,Media Arts and Sciences,32,5,8,32,2,PCTWHITE
+3155,"JONES, LYNETTE A",JONES,LYNETTE,Female,Other,Mechanical Engineering,72,28,6,1,0,PCTWHITE
+3325,"KAMM, ROGER DALE",KAMM,ROGER,Male,Other,Mechanical Engineering,300,23,59,13,0,PCTWHITE
+7590,"KAMRIN, KENNETH N",KAMRIN,KENNETH,Female,Associate,Mechanical Engineering,49,3,10,0,2,PCTWHITE
+5545,"KARNIK, ROHIT",KARNIK,ROHIT,Female,Professor,Mechanical Engineering,102,14,10,36,1,PCTWHITE
+4790,"KIM, SANGBAE",KIM,SANGBAE,Female,Associate,Mechanical Engineering,52,58,9,8,2,PCTAPI
+1780,"KIM, SANG-GOOK",KIM,SANG-GOOK,Male,Professor,Mechanical Engineering,100,41,3,29,2,PCTAPI
+8285,"KOLLE, MATHIAS",KOLLE,MATHIAS,Female,Associate,Mechanical Engineering,66,16,4,8,2,PCTWHITE
+5880,"KREBS, HERMANO I",KREBS,HERMANO,Female,Other,Mechanical Engineering,131,75,8,6,0,PCTWHITE
+1745,"LEONARD, JOHN J",LEONARD,JOHN,Male,Professor,Mechanical Engineering,95,93,34,14,2,PCTWHITE
+5740,"LERMUSIAUX, PIERRE",LERMUSIAUX,PIERRE,Female,Professor,Mechanical Engineering,87,29,35,1,1,PCTWHITE
+6855,"LIENHARD, JOHN H",LIENHARD,JOHN,Male,Professor,Mechanical Engineering,160,19,3,57,0,PCTWHITE
+2090,"LIU, YUMING",LIU,YUMING,Female,Other,Mechanical Engineering,154,26,1,0,0,PCTAPI
+1870,"LLOYD, SETH",LLOYD,SETH,Male,Professor,Mechanical Engineering,183,15,15,3,0,PCTWHITE
+1870,"LLOYD, SETH",LLOYD,SETH,Male,Professor,Physics,183,15,15,3,0,PCTWHITE
+1760,"MAKRIS, NICHOLAS",MAKRIS,NICHOLAS,Male,Professor,Mechanical Engineering,98,1,23,4,1,PCTWHITE
+3355,"MCKINLEY, GARETH H",MCKINLEY,GARETH,Female,Professor,Mechanical Engineering,246,18,24,29,2,PCTWHITE
+1620,"PARKS, DAVID MOORE",PARKS,DAVID,Male,Professor,Mechanical Engineering,30,0,5,3,2,PCTWHITE
+6840,"PATERA, ANTHONY T",PATERA,ANTHONY,Male,Professor,Mechanical Engineering,61,6,18,1,2,PCTWHITE
+1430,"PATRIKALAKIS, NICHOLAS M",PATRIKALAKIS,NICHOLAS,Male,Professor,Mechanical Engineering,19,28,19,1,2,PCTWHITE
+3395,"PEACOCK, THOMAS",PEACOCK,THOMAS,Male,Professor,Mechanical Engineering,60,4,17,0,2,PCTWHITE
+24185,"PORTELA GALINDO, CARLOS M",PORTELA GALINDO,CARLOS,Male,Assistant,Mechanical Engineering,12,2,0,2,2,PCTWHITE
+19525,"ROCHE, ELLEN",ROCHE,ELLEN,Female,Assistant,Mechanical Engineering,42,5,2,5,3,PCTWHITE
+8455,"RODRIGUEZ GARCIA, ALBERTO",RODRIGUEZ GARCIA,ALBERTO,Male,Associate,Mechanical Engineering,23,51,2,7,2,PCTWHITE
+5700,"SAPSIS, THEMISTOKLIS PANAGIOTIS",SAPSIS,THEMISTOKLIS,Male,Associate,Mechanical Engineering,88,4,15,0,2,PCTWHITE
+1220,"SARMA, SANJAY",SARMA,SANJAY,Male,Professor,Mechanical Engineering,42,72,9,17,0,PCTAPI
+1730,"SCHMIDT, HENRIK",SCHMIDT,HENRIK,Male,Professor,Mechanical Engineering,116,41,47,1,0,PCTWHITE
+7200,"SCLAVOUNOS, PAUL D",SCLAVOUNOS,PAUL,Male,Professor,Mechanical Engineering,12,7,12,0,2,PCTWHITE
+4550,"SEERING, WARREN PAUL",SEERING,WARREN,Female,Professor,Mechanical Engineering,11,14,3,1,3,PCTWHITE
+1615,"SLOCUM, ALEXANDER H",SLOCUM,ALEXANDER,Male,Professor,Mechanical Engineering,171,55,29,125,2,PCTWHITE
+22805,"SUDHIR, VIVISHEK",SUDHIR,VIVISHEK,Female,Assistant,Mechanical Engineering,52,9,0,0,2,PCTWHITE
+3390,"TECHET, ALEXANDRA H",TECHET,ALEXANDRA,Female,Professor,Mechanical Engineering,30,6,19,2,2,PCTWHITE
+3545,"TIAN, TIAN",TIAN,TIAN,Female,Other,Mechanical Engineering,179,71,3,0,0,PCTAPI
+23715,"TRAVERSO, CARLO GIOVANNI",TRAVERSO,CARLO,Male,Assistant,Mechanical Engineering,90,4,2,77,2,PCTWHITE
+5770,"TRIANTAFYLLOU, MICHAEL S",TRIANTAFYLLOU,MICHAEL,Male,Professor,Mechanical Engineering,123,77,23,6,1,PCTWHITE
+5925,"TRUMPER, DAVID L",TRUMPER,DAVID,Male,Professor,Mechanical Engineering,43,14,16,34,3,PCTWHITE
+9980,"TURITSYN, KONSTANTIN",TURITSYN,KONSTANTIN,Male,Associate,Mechanical Engineering,69,53,6,0,0,PCTWHITE
+19515,"VAN REES, WILLEM MARINUS",VAN REES,WILLEM,Male,Assistant,Mechanical Engineering,20,3,1,0,2,PCTWHITE
+7580,"VANDIVER, JOHN KIM",VANDIVER,JOHN,Male,Professor,Mechanical Engineering,6,30,8,6,1,PCTWHITE
+6675,"WALLACE, DAVID",WALLACE,DAVID,Male,Professor,Mechanical Engineering,23,21,4,1,2,PCTWHITE
+1840,"WANG, EVELYN",WANG,EVELYN,Female,Professor,Mechanical Engineering,211,108,24,26,0,PCTAPI
+5010,"WINTER, AMOS G",WINTER,AMOS,Male,Associate,Mechanical Engineering,38,66,11,17,1,PCTWHITE
+3540,"WONG, VICTOR W",WONG,VICTOR,Male,Other,Mechanical Engineering,288,47,6,3,0,PCTAPI
+6845,"YANG, MARIA",YANG,MARIA,Female,Professor,Mechanical Engineering,50,50,11,0,4,PCTAPI
+3315,"YANNAS, IOANNIS V",YANNAS,IOANNIS,Male,Professor,Mechanical Engineering,47,3,14,30,3,PCTWHITE
+2205,"YOUCEF-TOUMI, KAMAL",YOUCEF-TOUMI,KAMAL,Male,Professor,Mechanical Engineering,86,81,3,58,2,PCTWHITE
+5735,"YUE, DICK K. P",YUE,DICK,Male,Professor,Mechanical Engineering,72,16,54,1,1,PCTAPI
+14770,"ZHAO, XUANHE",ZHAO,XUANHE,Female,Associate,Mechanical Engineering,177,6,12,17,1,PCTAPI
+15240,"ADIB, FADEL",ADIB,FADEL,Female,Assistant,Electrical Engineering and Computer Sciences,9,20,7,17,2,PCTWHITE
+15240,"ADIB, FADEL",ADIB,FADEL,Female,Assistant,Media Arts and Sciences,9,20,7,17,2,PCTWHITE
+23570,"BONES-IJEOMA, BRYAN",BONES-IJEOMA,BRYAN,Male,Assistant,Media Arts and Sciences,0,0,0,0,3,PCTWHITE
+23780,"BOVE, V MICHAEL",BOVE,V,Female,Other,Media Arts and Sciences,19,50,6,13,0,PCTWHITE
+2915,"BREAZEAL, CYNTHIA LYNN",BREAZEAL,CYNTHIA,Female,Associate,Media Arts and Sciences,45,123,17,2,2,PCTWHITE
+15330,"DAGDEVIREN, CANAN",DAGDEVIREN,CANAN,Female,Assistant,Media Arts and Sciences,35,2,2,4,2,PCTWHITE
+17890,"ESVELT, KEVIN MICHAEL",ESVELT,KEVIN,Male,Assistant,Media Arts and Sciences,36,1,6,5,3,PCTWHITE
+3880,"GERSHENFELD, NEIL A",GERSHENFELD,NEIL,Male,Professor,Media Arts and Sciences,19,17,30,67,2,PCTWHITE
+24085,"HARPER, CALEB BENJAMIN",HARPER,CALEB,Male,Other,Media Arts and Sciences,2,1,0,0,0,PCTWHITE
+2240,"HERR, HUGH M",HERR,HUGH,Female,Professor,Media Arts and Sciences,78,51,66,47,0,PCTWHITE
+1050,"ISHII, HIROSHI",ISHII,HIROSHI,Female,Professor,Media Arts and Sciences,31,166,0,12,3,PCTAPI
+8300,"LARSON, KENT",LARSON,KENT,Female,Other,Media Arts and Sciences,6,32,5,1,0,PCTWHITE
+24135,"LIEBERMAN, ZACHARY M",LIEBERMAN,ZACHARY,Male,Other,Media Arts and Sciences,0,1,0,0,2,PCTWHITE
+23880,"LIPPMAN, ANDREW B",LIPPMAN,ANDREW,Male,Other,Media Arts and Sciences,11,31,1,8,1,PCTWHITE
+2900,"MACHOVER, TOD",MACHOVER,TOD,Male,Professor,Media Arts and Sciences,5,1,0,2,1,PCTWHITE
+5555,"MAES, PATRICIA",MAES,PATRICIA,Female,Professor,Media Arts and Sciences,23,179,0,6,1,PCTHISPANIC
+5440,"OXMAN, NERI",OXMAN,NERI,Male,Associate,Media Arts and Sciences,39,10,2,12,0,PCTWHITE
+5560,"PARADISO, JOSEPH A",PARADISO,JOSEPH,Male,Professor,Media Arts and Sciences,47,108,2,32,4,PCTWHITE
+1455,"PENTLAND, ALEX PAUL",PENTLAND,ALEX,Female,Professor,Media Arts and Sciences,153,103,18,13,2,PCTWHITE
+2875,"PICARD, ROSALIND W",PICARD,ROSALIND,Female,Professor,Media Arts and Sciences,88,132,10,9,2,PCTWHITE
+15005,"RAHWAN, IYAD",RAHWAN,IYAD,Female,Associate,Media Arts and Sciences,73,37,2,0,0,PCTWHITE
+1785,"RASKAR, RAMESH",RASKAR,RAMESH,Female,Associate,Media Arts and Sciences,132,254,18,52,2,PCTWHITE
+2740,"RESNICK, MITCHEL J",RESNICK,MITCHEL,Male,Professor,Media Arts and Sciences,11,26,14,0,2,PCTWHITE
+1450,"ROY, DEB K",ROY,DEB,Female,Professor,Media Arts and Sciences,19,51,6,1,2,PCTWHITE
+15665,"SARKAR, DEBLINA",SARKAR,DEBLINA,Female,Assistant,Media Arts and Sciences,24,13,2,1,2,PCTAPI
+23835,"SHAH, PRATIK",SHAH,PRATIK,Male,Other,Media Arts and Sciences,9,14,1,2,2,PCTAPI
+2075,"ZHANG, SHUGUANG",ZHANG,SHUGUANG,Female,Other,Media Arts and Sciences,63,0,21,30,1,PCTAPI
+3230,"BAGLIETTO, EMILIO",BAGLIETTO,EMILIO,Male,Associate,Nuclear Science and Engineering,55,12,8,0,1,PCTWHITE
+1625,"BALLINGER, RONALD G",BALLINGER,RONALD,Female,Other,Nuclear Science and Engineering,26,7,21,1,0,PCTWHITE
+15235,"BUCCI, MATTEO",BUCCI,MATTEO,Female,Assistant,Nuclear Science and Engineering,25,4,6,2,1,PCTWHITE
+1385,"BUONGIORNO, JACOPO",BUONGIORNO,JACOPO,Female,Professor,Nuclear Science and Engineering,94,22,19,7,2,PCTWHITE
+2865,"CAPPELLARO, PAOLA",CAPPELLARO,PAOLA,Female,Associate,Nuclear Science and Engineering,92,8,10,4,4,PCTWHITE
+14600,"DANAGOULIAN, AREG",DANAGOULIAN,AREG,Female,Assistant,Nuclear Science and Engineering,23,2,3,2,2,PCTWHITE
+16200,"DIMITRAKOPOULOS, GEORGIOS THEODOROS",DIMITRAKOPOULOS,GEORGIOS,Male,Other,Nuclear Science and Engineering,9,2,0,0,0,PCTWHITE
+3235,"DRISCOLL, MICHAEL J",DRISCOLL,MICHAEL,Male,Other,Nuclear Science and Engineering,22,3,11,1,0,PCTWHITE
+20365,"FENG, JINYONG",FENG,JINYONG,Female,Other,Nuclear Science and Engineering,12,4,0,0,0,PCTAPI
+6390,"FORGET, BENOIT ROBERT YVES",FORGET,BENOIT,Male,Professor,Nuclear Science and Engineering,84,15,14,1,2,PCTWHITE
+3260,"FORSBERG, CHARLES W",FORSBERG,CHARLES,Male,Other,Nuclear Science and Engineering,60,24,14,1,3,PCTWHITE
+3255,"GOLAY, MICHAEL W",GOLAY,MICHAEL,Male,Professor,Nuclear Science and Engineering,13,2,13,0,1,PCTWHITE
+19395,"GOMES LOUREIRO, NUNO F",GOMES LOUREIRO,NUNO,Female,Associate,Nuclear Science and Engineering,63,2,7,0,2,PCTWHITE
+19395,"GOMES LOUREIRO, NUNO F",GOMES LOUREIRO,NUNO,Female,Associate,Physics,63,2,7,0,2,PCTWHITE
+23670,"HAN, FEI",HAN,FEI,Female,Other,Nuclear Science and Engineering,140,4,0,0,0,PCTAPI
+15250,"HARTWIG, ZACHARY SETH",HARTWIG,ZACHARY,Male,Assistant,Nuclear Science and Engineering,37,3,0,10,1,PCTWHITE
+3220,"HU, LIN-WEN",HU,LIN-WEN,Female,Other,Nuclear Science and Engineering,76,22,10,1,0,PCTAPI
+5540,"HUTCHINSON, IAN HORNER",HUTCHINSON,IAN,Female,Professor,Nuclear Science and Engineering,96,4,9,0,3,PCTWHITE
+7495,"KEMP, RONALD S",KEMP,RONALD,Female,Associate,Nuclear Science and Engineering,17,2,0,0,1,PCTWHITE
+5515,"LABOMBARD, BRIAN",LABOMBARD,BRIAN,Male,Other,Nuclear Science and Engineering,193,19,0,3,0,PCTWHITE
+6395,"LANZA, RICHARD C",LANZA,RICHARD,Male,Other,Nuclear Science and Engineering,39,25,20,10,0,PCTWHITE
+2295,"LESTER, RICHARD K",LESTER,RICHARD,Male,Professor,Nuclear Science and Engineering,14,0,1,0,0,PCTWHITE
+23675,"LI, MINGDA",LI,MINGDA,Female,Assistant,Nuclear Science and Engineering,59,2,1,0,3,PCTAPI
+23680,"PHILLIPS, BREN ANDREW",PHILLIPS,BREN,Female,Other,Nuclear Science and Engineering,9,2,2,2,0,PCTWHITE
+23870,"RAM, ABHAY KUMAR",RAM,ABHAY,Male,Other,Nuclear Science and Engineering,40,14,5,0,0,PCTAPI
+8205,"REYNOLDS, ELISABETH BECK",REYNOLDS,ELISABETH,Female,Other,Nuclear Science and Engineering,4,0,1,0,0,PCTWHITE
+15425,"SHIRVAN, KOROUSH",SHIRVAN,KOROUSH,Female,Assistant,Nuclear Science and Engineering,59,6,13,2,2,PCTWHITE
+1575,"SHORT, MICHAEL P",SHORT,MICHAEL,Male,Associate,Nuclear Science and Engineering,82,7,14,3,4,PCTWHITE
+3275,"SMITH, KORD S",SMITH,KORD,Female,Other,Nuclear Science and Engineering,86,5,9,0,0,PCTWHITE
+18305,"SO, KANGPYO",SO,KANGPYO,Female,Other,Nuclear Science and Engineering,32,1,0,0,0,PCTAPI
+1600,"TODREAS, NEIL E",TODREAS,NEIL,Male,Other,Nuclear Science and Engineering,39,2,11,0,0,PCTWHITE
+5520,"WHITE, ANNE E",WHITE,ANNE,Female,Professor,Nuclear Science and Engineering,128,8,10,1,0,PCTWHITE
+5495,"WHYTE, DENNIS G",WHYTE,DENNIS,Male,Professor,Nuclear Science and Engineering,170,13,6,1,3,PCTWHITE
+2675,"BAUTZ, MARSHALL W",BAUTZ,MARSHALL,Female,Other,Physics,110,85,42,1,0,PCTWHITE
+6105,"BERTOZZI, WILLIAM",BERTOZZI,WILLIAM,Male,Other,Physics,74,5,5,2,0,PCTWHITE
+5510,"BONOLI, PAUL T",BONOLI,PAUL,Male,Other,Physics,118,53,9,0,0,PCTWHITE
+3550,"BROMBERG, LESLIE",BROMBERG,LESLIE,Male,Other,Physics,51,34,24,53,0,PCTWHITE
+3115,"BUSZA, WIT",BUSZA,WIT,Female,Other,Physics,1055,11,0,0,0,PCTWHITE
+3570,"CANIZARES, CLAUDE R",CANIZARES,CLAUDE,Male,Professor,Physics,45,5,69,0,0,PCTHISPANIC
+3635,"CHAKRABARTY, DEEPTO",CHAKRABARTY,DEEPTO,Female,Professor,Physics,120,15,78,0,2,PCTAPI
+14845,"CHECKELSKY, JOSEPH",CHECKELSKY,JOSEPH,Male,Associate,Physics,61,0,7,0,2,PCTWHITE
+4690,"CHEN, MIN",CHEN,MIN,Female,Professor,Physics,100,13,1,7,0,PCTAPI
+17870,"COMIN, RICCARDO",COMIN,RICCARDO,Male,Assistant,Physics,75,3,3,0,2,PCTWHITE
+4700,"CONRAD, JANET MARIE",CONRAD,JANET,Female,Professor,Physics,415,15,17,0,2,PCTWHITE
+23795,"COSTER, ANTHEA J",COSTER,ANTHEA,Female,Other,Physics,124,17,14,0,0,PCTWHITE
+18405,"CROSSFIELD, IAN J M",CROSSFIELD,IAN,Female,Assistant,Physics,145,11,10,0,0,PCTWHITE
+4305,"DETMOLD, WILLIAM",DETMOLD,WILLIAM,Male,Associate,Physics,97,167,4,0,3,PCTWHITE
+5330,"ERICKSON, PHILIP J",ERICKSON,PHILIP,Male,Other,Physics,92,19,15,0,0,PCTWHITE
+3055,"EVANS, MATTHEW J",EVANS,MATTHEW,Male,Associate,Physics,315,10,3,2,1,PCTWHITE
+2470,"FISHER, PETER H",FISHER,PETER,Male,Professor,Physics,275,13,5,6,0,PCTWHITE
+4705,"FORMAGGIO, JOSEPH A",FORMAGGIO,JOSEPH,Male,Professor,Physics,78,13,18,0,1,PCTWHITE
+9230,"FOSTER, JOHN C",FOSTER,JOHN,Male,Other,Physics,82,14,22,0,0,PCTWHITE
+10190,"FREBEL, ANNA L",FREBEL,ANNA,Female,Associate,Physics,138,26,10,0,2,PCTWHITE
+23940,"FRENJE, JOHAN A",FRENJE,JOHAN,Female,Other,Physics,243,27,3,0,0,PCTWHITE
+3145,"FRITSCHEL, PETER K",FRITSCHEL,PETER,Male,Other,Physics,262,8,3,2,0,PCTWHITE
+5605,"FU, LIANG",FU,LIANG,Male,Associate,Physics,190,7,3,4,2,PCTAPI
+1690,"GEDIK, NUH",GEDIK,NUH,Female,Professor,Physics,76,10,19,3,2,PCTWHITE
+9635,"GORE, JEFF",GORE,JEFF,Female,Associate,Physics,74,1,7,0,2,PCTWHITE
+4880,"GREENWALD, MARTIN J",GREENWALD,MARTIN,Female,Other,Physics,152,8,11,3,0,PCTWHITE
+5175,"GUTH, ALAN",GUTH,ALAN,Male,Professor,Physics,160,1,0,0,2,PCTWHITE
+15790,"HARRIS, PHILIP COLEMAN",HARRIS,PHILIP,Male,Assistant,Physics,1035,3,5,0,3,PCTWHITE
+6985,"HARROW, ARAM W",HARROW,ARAM,Female,Associate,Physics,53,25,7,1,3,PCTWHITE
+4020,"HEWITT, JACQUELINE N",HEWITT,JACQUELINE,Female,Professor,Physics,83,7,14,0,2,PCTWHITE
+23820,"HUBBARD, AMANDA E",HUBBARD,AMANDA,Female,Other,Physics,149,18,6,0,0,PCTWHITE
+5935,"HUGHES, SCOTT A",HUGHES,SCOTT,Male,Professor,Physics,69,8,10,0,1,PCTWHITE
+23810,"IRBY, JAMES HENDERSON",IRBY,JAMES,Male,Other,Physics,80,9,2,3,0,PCTWHITE
+1685,"JARILLO-HERRERO, PABLO",JARILLO-HERRERO,PABLO,Male,Professor,Physics,130,9,15,0,2,PCTWHITE
+2065,"JOANNOPOULOS, JOHN",JOANNOPOULOS,JOHN,Male,Professor,Physics,270,125,27,88,0,PCTWHITE
+2755,"JOHNSON, STEVEN G",JOHNSON,STEVEN,Male,Professor,Physics,209,71,3,18,1,PCTWHITE
+22800,"JU, LONG",JU,LONG,Male,Assistant,Physics,88,2,1,1,1,PCTAPI
+5160,"KAISER, DAVID I",KAISER,DAVID,Male,Professor,Physics,78,1,6,0,1,PCTWHITE
+23745,"KARA, ERIN A",KARA,ERIN,Female,Assistant,Physics,92,8,12,0,1,PCTWHITE
+3515,"KARDAR, MEHRAN",KARDAR,MEHRAN,Female,Professor,Physics,122,0,10,0,1,PCTWHITE
+3105,"KATSAVOUNIDIS, EROTOKRITOS",KATSAVOUNIDIS,EROTOKRITOS,Female,Other,Physics,247,3,6,0,0,PCTWHITE
+3885,"KETTERLE, WOLFGANG",KETTERLE,WOLFGANG,Female,Professor,Physics,111,15,45,0,2,PCTWHITE
+5195,"KLEPPNER, DANIEL",KLEPPNER,DANIEL,Male,Other,Physics,40,2,17,2,0,PCTWHITE
+3455,"KLUTE, MARKUS",KLUTE,MARKUS,Male,Associate,Physics,1180,16,5,0,2,PCTWHITE
+6250,"LEE, PATRICK A",LEE,PATRICK,Male,Other,Physics,132,3,13,2,0,PCTWHITE
+3460,"LEE, YEN-JIE",LEE,YEN-JIE,Female,Associate,Physics,1117,7,1,0,2,PCTWHITE
+1825,"LEVITOV, LEONID",LEVITOV,LEONID,Female,Professor,Physics,121,2,2,1,2,PCTWHITE
+3475,"LIU, HONG",LIU,HONG,Female,Professor,Physics,413,13,0,0,2,PCTAPI
+3160,"LONSDALE, COLIN JOHN",LONSDALE,COLIN,Male,Other,Physics,145,25,32,0,0,PCTWHITE
+5505,"MARMAR, EARL S",MARMAR,EARL,Female,Other,Physics,96,3,12,0,0,PCTWHITE
+3575,"MARSHALL, HERMAN",MARSHALL,HERMAN,Male,Other,Physics,68,47,33,0,0,PCTWHITE
+3100,"MAVALVALA, NERGIS",MAVALVALA,NERGIS,Female,Professor,Physics,270,12,7,0,0,PCTWHITE
+5320,"MCDONALD, MICHAEL A",MCDONALD,MICHAEL,Male,Assistant,Physics,131,7,27,0,1,PCTWHITE
+4695,"MILNER, RICHARD G",MILNER,RICHARD,Male,Professor,Physics,96,25,25,0,3,PCTWHITE
+4325,"MIRNY, LEONID A",MIRNY,LEONID,Female,Professor,Physics,110,1,18,0,1,PCTWHITE
+4245,"MOODERA, JAGADEESH",MOODERA,JAGADEESH,Female,Other,Physics,159,2,34,6,0,PCTWHITE
+4295,"NEGELE, JOHN W",NEGELE,JOHN,Male,Other,Physics,54,65,8,0,0,PCTWHITE
+2480,"PAUS, CHRISTOPH M. E",PAUS,CHRISTOPH,Female,Professor,Physics,1506,59,8,0,3,PCTWHITE
+18420,"PEREZ, KERSTIN M",PEREZ,KERSTIN,Female,Assistant,Physics,271,9,2,0,0,PCTHISPANIC
+6385,"PETRASSO, RICHARD D",PETRASSO,RICHARD,Male,Other,Physics,246,22,47,0,0,PCTWHITE
+5525,"PORKOLAB, MIKLOS",PORKOLAB,MIKLOS,Female,Other,Physics,103,24,13,0,0,PCTWHITE
+8925,"PRIGOZHIN, GREGORY",PRIGOZHIN,GREGORY,Male,Other,Physics,31,39,1,0,0,PCTWHITE
+2120,"PRITCHARD, DAVID E",PRITCHARD,DAVID,Male,Professor,Physics,60,29,33,0,2,PCTWHITE
+3480,"RAJAGOPAL, KRISHNA",RAJAGOPAL,KRISHNA,Female,Professor,Physics,70,11,1,0,0,PCTAPI
+6155,"RAPPAPORT, SAUL A",RAPPAPORT,SAUL,Female,Other,Physics,105,2,21,0,0,PCTWHITE
+6350,"REDWINE, ROBERT P",REDWINE,ROBERT,Male,Professor,Physics,75,4,21,0,0,PCTWHITE
+3560,"REMILLARD, RONALD A",REMILLARD,RONALD,Female,Other,Physics,111,18,22,0,0,PCTWHITE
+23825,"RICE, JOHN E",RICE,JOHN,Male,Other,Physics,153,12,4,0,0,PCTWHITE
+2095,"RICHARDSON, JOHN D",RICHARDSON,JOHN,Male,Other,Physics,140,18,27,0,0,PCTWHITE
+6620,"RICKER, GEORGE R",RICKER,GEORGE,Male,Other,Physics,171,13,32,0,0,PCTWHITE
+3445,"ROLAND, GUNTHER M",ROLAND,GUNTHER,Female,Professor,Physics,1135,19,4,0,2,PCTWHITE
+7365,"SCHATTENBURG, MARK L",SCHATTENBURG,MARK,Male,Other,Physics,36,68,34,6,0,PCTWHITE
+5335,"SCHECHTER, PAUL L",SCHECHTER,PAUL,Male,Other,Physics,41,10,15,0,0,PCTWHITE
+3210,"SHOEMAKER, DAVID H",SHOEMAKER,DAVID,Male,Other,Physics,249,10,6,0,0,PCTWHITE
+6605,"SIMCOE, ROBERT A",SIMCOE,ROBERT,Male,Professor,Physics,62,17,16,0,0,PCTWHITE
+4255,"SOLJACIC, MARIN",SOLJACIC,MARIN,Male,Professor,Physics,235,157,10,73,2,PCTWHITE
+6760,"STEWART, IAIN W",STEWART,IAIN,Female,Professor,Physics,105,21,2,0,2,PCTWHITE
+3110,"TAYLOR, WASHINGTON",TAYLOR,WASHINGTON,Female,Professor,Physics,109,3,0,0,2,PCTWHITE
+5165,"TEGMARK, MAX ERIK",TEGMARK,MAX,Male,Professor,Physics,144,10,5,1,2,PCTWHITE
+6920,"TEMKIN, RICHARD J",TEMKIN,RICHARD,Male,Other,Physics,119,143,38,1,0,PCTWHITE
+23800,"TERRY, JAMES L",TERRY,JAMES,Male,Other,Physics,170,8,3,0,0,PCTWHITE
+6750,"THALER, JESSE",THALER,JESSE,Female,Associate,Physics,120,4,5,0,2,PCTWHITE
+6765,"TODADRI, SENTHIL",TODADRI,SENTHIL,Female,Professor,Physics,122,1,10,0,2,PCTWHITE
+15265,"VITALE, SALVATORE",VITALE,SALVATORE,Male,Assistant,Physics,220,12,2,0,2,PCTWHITE
+14795,"VOGELSBERGER, MARK",VOGELSBERGER,MARK,Male,Associate,Physics,220,5,8,0,2,PCTWHITE
+2595,"VULETIC, VLADAN",VULETIC,VLADAN,Female,Professor,Physics,109,23,33,3,2,PCTWHITE
+3040,"WEISS, RAINER",WEISS,RAINER,Male,Other,Physics,240,2,1,0,0,PCTWHITE
+3870,"WEN, XIAO-GANG",WEN,XIAO-GANG,Female,Professor,Physics,158,2,10,0,2,PCTAPI
+7670,"WILCZEK, FRANK",WILCZEK,FRANK,Male,Professor,Physics,127,6,0,0,1,PCTWHITE
+3490,"WILLIAMS, MICHAEL",WILLIAMS,MICHAEL,Male,Associate,Physics,769,22,12,0,1,PCTWHITE
+14775,"WINSLOW, LINDLEY",WINSLOW,LINDLEY,Female,Assistant,Physics,88,23,5,0,1,PCTWHITE
+23785,"WUKITCH, STEPHEN JAMES",WUKITCH,STEPHEN,Male,Other,Physics,145,45,4,0,0,PCTWHITE
+3450,"WYSLOUCH, BOLESLAW",WYSLOUCH,BOLESLAW,Male,Professor,Physics,1053,10,35,0,0,PCTWHITE
+3890,"ZWIERLEIN, MARTIN WOLFRAM",ZWIERLEIN,MARTIN,Female,Professor,Physics,57,5,16,0,2,PCTWHITE
